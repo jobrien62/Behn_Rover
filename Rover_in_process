@@ -219,18 +219,18 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
             <pb facs="tcp:98343:3"/>
             <head>The Actors Names.</head>
             <list>
-               <item>Mr. <hi>Jevorne, Don Antonio,</hi> The Vice-Roy's Son.</item>
+               <item>Mr. <hi>Ievorne, Don Antonio,</hi> The Vice-Roy's Son.</item>
                <item>Mr. <hi>Medburne, Don Pedro,</hi> A Noble <hi>Spaniard,</hi> his Friend.</item>
                <item>Mr. <hi>Betterton, Belvile,</hi> An <hi>English</hi> Colonel in Love with <hi>Florinda.</hi>
                </item>
                <item>Mr. <hi>Smith, Willmore,</hi> The ROVER.</item>
                <item>Mr. <hi>Crosbie, Frederick,</hi> An <hi>English</hi> Gentleman, and Friend to <hi>Bel.</hi> and <hi>Fred.</hi>
                </item>
-               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentleman.</item>
+               <item>Mr. <hi>Underhill, Blunt,</hi> An <hi>English</hi> Country Gentle<g ref="char:EOLhyphen"/>man.</item>
                <item>Mr. <hi>Richards, Stephano,</hi> Servant to <hi>Don Pedro.</hi>
                </item>
                <item>Mr. <hi>Percivall, Philippo, Lucetta's</hi> Gallant.</item>
-               <item>Mr. <hi>John Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
+               <item>Mr. <hi>Iohn Lee, Sancho,</hi> Pimp to <hi>Lucetta.</hi>
                </item>
                <item>
                   <hi>Biskey,</hi> and <hi>Sebastian, Two Bravo's to</hi> Angellica.</item>
@@ -242,7 +242,7 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
                <head>Women.</head>
                <item>Mrs. <hi>Betterton, Florinda,</hi> Sister to <hi>Don Pedro.</hi>
                </item>
-               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman design'd for a Nun, and Sister to <hi>Florinda.</hi>
+               <item>Mrs. <hi>Barrer, Hellena,</hi> A gay Young Woman de<g ref="char:EOLhyphen"/>sign'd for a Nun, and Sister to <hi>Florinda.</hi>
                </item>
                <item>Mrs. <hi>Hughs, Valeria,</hi> A Kinswoman to <hi>Florinda.</hi>
                </item>
@@ -260,9 +260,9 @@ of the <hi>English Saxons.</hi> Together with a Catalogue of the 76
          <div n="1" type="act">
             <pb n="1" facs="tcp:98343:3"/>
             <head>THE
-ROVER:<note>pirate, or a person who travels from place to place without fixed route or destination (Oxford English Dictionary)</note>
+ROVER:
 OR,
-The Banish't Cavaliers.<note>Supporters of Charles I in the English Civil War between him and the Parliament; Royalists; Exhiled with King Charles II from 1640 until 1660. (Oxford English Dictionary) Smith, Geoffrey. "The Cavaliers in Exile: 1640-1660." Google Books. Google, n.d. Web. 2 Dec. 2016.</note></head>
+The Banish't Cavaliers.</head>
             <head>ACT the First.</head>
             <div n="1" type="scene">
                <head>Scene the First. A Chamber.</head>
@@ -270,14 +270,14 @@ The Banish't Cavaliers.<note>Supporters of Charles I in the English Civil War be
                   <hi>Enter</hi> Florinda <hi>and</hi> Hellena.</stage>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>What an Impertinent thing is a Young Girl bred
-in a Nunnery? How full of Questions? Prithee<note>I pray thee, similar to 'I beg of you'(Oxford English Dictionary)</note>
+                  <p>WHat an Impertinent thing is a Young Girl bred
+in a Nunnery? How full of Questions? Prithee
 no more <hi>Hellena,</hi> I have told thee more than
 thou understand'st already.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>The more's my grief, I wou'd fain<note>be delighted or glad (Oxford English Dictionary)</note> know as much as you,
+                  <p>The more's my grief, I wou'd fain know as much as you,
 which makes me so Inquisitive; nor is't enough I know you'r a
 Lover, unless you tell me too, who 'tis you sigh for.</p>
                </sp>
@@ -299,14 +299,14 @@ Belvill.</hi>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Fye<note>Exclamation of indignant reproach (Oxford English Dictionary)</note> <hi>Hellena.</hi>
+                  <p>Fye <hi>Hellena.</hi>
                   </p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>That blush betrays you.—I am sure 'tis so—or is
-it <hi>Don Antonio</hi> the Vice-Roy's<note>Acting governor or ruler of a province (Oxford English Dictionary)</note> Son?—or perhaps the Rich
-Old <hi>Don Vincentio</hi> whom my Father designs you for a Husband?-
+it <hi>Don Antonio</hi> the Vice-Roy's Son?—or perhaps the Rich
+Old <hi>Don Vincentio</hi> whom my Father designs you for a Husband?
 why do you blush again?</p>
                </sp>
                <sp>
@@ -319,17 +319,17 @@ and more to my Soul, then to obey those unjust Commands.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Now hang me, if I don't love thee for that dear disobedience.
+                  <p>Now hang me, if I don't love thee for that dear disobe<g ref="char:EOLhyphen"/>dience.
 I love mischief strangely, as most of our Sex do, who
 are come to Love nothing else—but tell me dear <hi>Florinda,</hi>
-don't you love that fine <hi>Anglese?</hi><note>English person ("Anglese in English." Glosbe. N.p., n.d. Web. 3 Dec. 2016)</note>—for I vow next to loving
-him my self, 'twill please me most that you do so, for he is so gay<note>Fine or noble (Oxford English Dictionary)</note>
+don't you love that fine <hi>Anglese?</hi>—for I vow next to loving
+him my self, 'twill please me most that you do so, for he is so gay
 and so handsome.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
                   <p>
-                     <hi>Hellena,</hi> a Maid design'd<note>Intended or designated (Oxford English Dictionary)</note> for a Nun, ought not to be so
+                     <hi>Hellena,</hi> a Maid design'd for a Nun, ought not to be so
 Curious in a discourse of Love.</p>
                </sp>
                <sp>
@@ -338,37 +338,37 @@ Curious in a discourse of Love.</p>
 till I'm so Old, I'm fit for nothing else—Faith no Sister; and
 that which makes me long to know whether you love <hi>Belvile,</hi> is
 because I hope he has some mad Companion or other, that will
-spoil my devotion, nay I'm resolv'd to provide my self this Carnival<note>Season before Lent filled with masquerading, dancing, feasting, and public revelry. A time in which gluttony and lust is contrasted with the subsequent fasting and abstinence of Lent. Image Possibility: "Venetian Masked Characters during Carnival, 1614, Illustration from the Codex Bottacin, Italy, 17th Century." Getty Images. N.p., n.d. Web. 1 Dec. 2016. (Oxford English Dictionary) ("carnival." The Columbia Encyclopedia, 6th ed.. . Encyclopedia.com. 3 Dec. 2016) ("Carnival." Europe, 1450 to 1789: Encyclopedia of the Early Modern World. . Encyclopedia.com. 4 Dec. 2016)</note>,
-if there be ere a handsome proper fellow of my humour<note>mental disposition, temperament (Oxford English Dictionary)</note> above
+spoil my devotion, nay I'm resolv'd to provide my self this Car<g ref="char:EOLhyphen"/>nival,
+if there be ere a handsome proper fellow of my humour a<g ref="char:EOLhyphen"/>bove
 ground, tho I ask first.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Prithee<note>Pray thee</note> be not so wild.</p>
+                  <p>Prithee be not so wild.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Now you have provided your self of a Man, you take no
 care for poor me—prithee tell me, what dost thou see about me
-that is unfit for Love—have I not a World of Youth? a humour<note>mental disposition, temperament (Oxford English Dictionary)</note>
+that is unfit for Love—have I not a World of Youth? a humour
 gay? a Beauty passable? a Vigour desirable? well Shap't?
-clean limb'd<note>Well-proportioned (Oxford English Dictionary)</note>? sweet breath'd? and sense enough to know how
+clean limb'd? sweet breath'd? and sense enough to know how
 all these ought to be employ'd to the best advantage; yes I do and
-will, therefore lay aside your hopes of my Fortune by my being a
+will, therefore lay aside your hopes of my Fortune<g ref="char:punc">▪</g> by my being a
 Devote, and tell me how you came acquainted with this <hi>Belvile?</hi>
-for I perceive you knew him before he came to <hi>Naples.</hi><note>City in southern Italy (Wikipedia)</note>
+for I perceive you knew him before he came to <hi>Naples.</hi>
                   </p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Yes, I knew him at the Siege of <hi>Pampulona,</hi><note>Pamplona, a city in the north of Spain; the siege occured during the Italian Wars in 1521 by the Navarrese (allies of French during the war) but successfully resisted by the Spanish (Wikipedia Italian War of 1521–26)</note> he was then
-a Colonel of <hi>French</hi> Horse<note>French cavalry (Oxford English Dictionary)</note>, who when the Town was Ransack't,
-Nobly treated my Brother and my self, preserving us from all Insolences;
+                  <p>Yes, I knew him at the Siege of <hi>Pampulona,</hi> he was then
+a Colonel of <hi>French</hi> Horse, who when the Town was Ransack't,
+Nobly treated my Brother and my self, preserving us from all In<g ref="char:EOLhyphen"/>solences;
 and I must own, (besides great Obligations) I have I know
 not what, that pleads kindly for him about my Heart, and will
 suffer no other to enter.—But see my Brother.</p>
                </sp>
-               <stage>Enter Don Pedro Stephano <hi>with a Masquing habit and</hi><note>Carnival disguise</note> Callis.</stage>
+               <stage>Enter Don Pedro Stephano <hi>with a Masquing habit and</hi> Callis.</stage>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>Good morrow Sister.—Pray when saw you your
@@ -384,7 +384,7 @@ consider it so little, I know not when it was.</p>
                   <pb n="3" facs="tcp:98343:4"/>
                   <speaker>Pedro.</speaker>
                   <p>I have a Command from my Father here to tell you, you
-ought not to despise him, a Man of so vast a Fortune, and such a Passion
+ought not to despise him, a Man of so vast a Fortune, and such a Pas<g ref="char:EOLhyphen"/>sion
 for you—<hi>Stephano</hi> my things.</p>
                </sp>
                <stage>[Puts on his Masquing habit.</stage>
@@ -393,13 +393,13 @@ for you—<hi>Stephano</hi> my things.</p>
                   <p>A Passion for me, 'tis more than e're I saw, or he had a
 desire should be known—I hate <hi>Vincentio,</hi> Sir, and I wou'd not
 have a Man so dear to me as my Brother, follow the ill Customes
-of our Countrey, and make a slave of his Sister<note>Custom for the father to exert control over whom the daughter marries in prominent families (Finberg, Melinda C. "Introduction." Eighteenth-Century Women Dramatists. N.p.: Oxford World's Classics, n.d. XXV. Google Books. Web. 2 Dec. 2016.)</note>—and Sir, my
+of our Countrey, and make a slave of his Sister—and Sir, my
 Fathers will, I'm sure you may divert.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>I know not how dear I am to you, but I wish only to
-be ranckt<note>Ranked</note> in your esteem, equal with the English Coll. <hi>Belvile—</hi>
+be ranckt in your esteem, equal with the English Coll. <hi>Belvile—</hi>
 why do you frown and blush? is there any guilt belongs to the
 Name of that Cavalier.</p>
                </sp>
@@ -407,14 +407,14 @@ Name of that Cavalier.</p>
                   <speaker>Flor.</speaker>
                   <p>I'le not deny I value <hi>Belvile,</hi> when I was expos'd to such
 dangers as the Licenc'd Lust of common Souldiers threatned,
-when Rage and Conquest flew through the City—then <hi>Belvile</hi>
+when Rage and Conquest flew through the City—then <hi>Bel<g ref="char:EOLhyphen"/>vile</hi>
 this Criminal for my sake, through himself into all dangers to
 save my Honour and will you not allow him my esteem?</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>Yes, pay him what you will in Honour—but you
-must consider <hi>Don Vincentio's</hi> Fortune, and the Joynture<note>Property or money given to the wife in marriage (Oxford English Dictionary)</note> he'l
+must consider <hi>Don Vincentio's</hi> Fortune, and the Joynture he'l
 make you.</p>
                </sp>
                <sp>
@@ -431,7 +431,7 @@ those of his Eyes and Heart?</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>And are not those better than any <hi>Don Vincentio</hi> has
-brought from the <hi>Indies.</hi><note>India</note>
+brought from the <hi>Indies.</hi>
                   </p>
                </sp>
                <sp>
@@ -442,7 +442,7 @@ you to understand the value of Hearts and Eyes?</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Better than to believe <hi>Vincentio</hi>'s deserve value from any
-Woman—he may perhaps encrease her Baggs<note>riches, or money-bags (Oxford English Dictionary)</note>, but not her Family.</p>
+Woman—he may perhaps encrease her Baggs, but not her Fa<g ref="char:EOLhyphen"/>mily.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
@@ -453,27 +453,27 @@ design'd for the conversation of Lovers.</p>
                   <speaker>Hell.</speaker>
                   <p>Nor Saints, yet a while I hope <stage>[Aside.</stage>
 I'st not enough you make a Nun of me, but you must cast my
-Sister away too? exposing her to a worse confinement than a Religious
+Sister away too? exposing her to a worse confinement than a Reli<g ref="char:EOLhyphen"/>gious
 life.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
-                  <p>The Girl's mad—it is a confinement to be carry'd into
+                  <p>The Girl's mad—it is a confinement to be carry'd in<g ref="char:EOLhyphen"/>to
 the Countrey, to an Antient Villa belonging to the Family of
 <pb n="4" facs="tcp:98343:5"/>
-the <hi>Vincentio's</hi> these five hundred Years, and have no other Prospect
+the <hi>Vincentio's</hi> these five hundred Years, and have no other Pro<g ref="char:EOLhyphen"/>spect
 than that pleasing one of seeing all her own that meets her
 Eyes—a fine Ayr, large Fields and Gardens, where she may
 walk and gather Flowers.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>When by Moon Light? For I am sure she dares not encounter
+                  <p>When by Moon Light? For I am sure she dares not en<g ref="char:EOLhyphen"/>counter
 with the heat of the Sun, that were a task only for <hi>Don
 Vincentio</hi> and his Indian breeding, who loves it in the Dog
-dayes<note>Hottest part of the summer (Oxford English Dictionary)</note>.—and if these be her daily divertisements, what are
+dayes.—and if these be her daily divertisements, what are
 those of the Night, to lye in a wide Moth—eaten Bed Chamber,
-with furniture in Fashion in the Reign of King <hi>Sancho</hi> the First<note>King of Pamplona during the 10th Century (Page 218 Merino, Vicente Salas. La Genealogía De Los Reyes De España. Espana: Grupo Corporativo VisionNet, n.d. Google Books. Web. 4 Dec. 2016.)</note>;
+with furniture in Fashion in the Reign of King <hi>Sancho</hi> the First;
 The Bed, that which his Fore—fathers liv'd and dy'd in.</p>
                </sp>
                <sp>
@@ -483,8 +483,8 @@ The Bed, that which his Fore—fathers liv'd and dy'd in.</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>This Appartment (new furbrusht and fitted out for the
-young Wife) he (out of freedom) makes his dressing Room, and being
-a Frugal and a Jealus Coxcomb<note>Fool (Oxford English Dictionary)</note>, instead of a Valet<note>Personal attendant (Oxford English Dictionary)</note> to uncase his
+young Wife) he (out of freedom) makes his dressing Room, and be<g ref="char:EOLhyphen"/>ing
+a Frugal and a Jealus Coxcomb, instead of a Valet to uncase his
 feeble Carcass, he desires you to do that Office—signs of favour
 I'll assure you, and such as you must not hope for, unless your
 Woman be out of the way.</p>
@@ -513,20 +513,20 @@ this you must submit to for Threescore years, and all for a Joynture.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
-                  <p>For all your Character<note>Description of person (Oxford English Dictionary)</note> of <hi>Don Vincentio,</hi> she is as like
+                  <p>For all your Character of <hi>Don Vincentio,</hi> she is as like
 to Marry him, as she was before.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Marry <hi>Don Vincentio!</hi> hang me such a Wedlock would
 be worse than Adultery with another Man. I had rather see her
-in the <hi>Hostel de Dieu,</hi><note>Hospital that served to the poor, presumably operated by a religious order (Behn, Aphra, and Robyn Bolam. The Rover: Revised Edition. N.p.: Bloomsbury, n.d. Print.)</note>to wast her Youth there in Vowes, and be a
-hand-Maid to Lazers<note>A poor or diseased person (Oxford English Dictionary)</note> and Cripples, than to lose it in such a Marriage.</p>
+in the <hi>Hostel de Dieu,</hi> to wast her Youth there in Vowes, and be a
+hand-Maid to Lazers and Cripples, than to lose it in such a Mar<g ref="char:EOLhyphen"/>riage.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>You have consider'd Sister, that <hi>Belvile</hi> has no Fortune
-to bring you to, banisht his Countrey, despis'd at home, and pitty'd
+to bring you to, banisht his Countrey, despis'd at home, and pit<g ref="char:EOLhyphen"/>ty'd
 abroad.</p>
                </sp>
                <sp>
@@ -534,14 +534,14 @@ abroad.</p>
                   <p>What then? the Vice-Roy's Son is better than that Old
 Sir Fisty. <hi>Don Vincentio! Don Indian!</hi> he thinks he's trading to
 <pb n="5" facs="tcp:98343:5"/>
-                     <hi>Gambo</hi><note>Gambia, region off the coast of Africa active in the slave trade during the period until the 19th century ("History of Slavery in Gambia." Gambia Information Site. N.p., n.d. Web. 4 Dec. 2016.)</note> still, and wou'd <hi>Barter</hi> himself (that Bell and Bawble) <note>Referring to the costume of a jester, who wore bells on their heads and carried bawbles ("Jesters: A Fool and His Clothing." Medieval and Renaissance Material Culture. N.p., n.d. Web. 4 Dec. 2016.)</note>
+                     <hi>Gambo</hi> still, and wou'd <hi>Barter</hi> himself (that Bell and Bawble)
 for your Youth and Fortune.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
                   <p>
                      <hi>Callis</hi> take her hence, and lock her up all this Carnival,
-and at Lent<note>Period after the carnival in the Spring; a time of fasting and penance (Oxford English Dictionary)</note> she shall begin her everlasting Pennance<note>Repentence of sin (Oxford English Dictionary)</note> in a Monastery.</p>
+and at Lent she shall begin her everlasting Pennance in a Mona<g ref="char:EOLhyphen"/>stery.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
@@ -569,7 +569,7 @@ me.</p>
 As for you <hi>Florinda,</hi> I've only try'd you all this while and urg'd
 my Fathers will; but mine is, that you wou'd love <hi>Antonio,</hi> he is
 Brave and young, and all that can compleat the happiness of a
-Gallant Maid—this absence of my Father will give us opportunity,
+Gallant Maid—this absence of my Father will give us oppor<g ref="char:EOLhyphen"/>tunity,
 to free you from <hi>Vincentio,</hi> by Marrying here, which you
 must do to Morrow.</p>
                </sp>
@@ -579,7 +579,7 @@ must do to Morrow.</p>
                </sp>
                <sp>
                   <speaker>Pedro.</speaker>
-                  <p>To Morrow, or 'twill be too late—tis not my Friendship
+                  <p>To Morrow, or 'twill be too late—tis not my Friend<g ref="char:EOLhyphen"/>ship
 to <hi>Antonio,</hi> which makes me urge this, but Love to thee, and
 hatred to <hi>Vincentio</hi>—therefore resolve upon to Morrow.</p>
                </sp>
@@ -591,7 +591,7 @@ hatred to <hi>Vincentio</hi>—therefore resolve upon to Morrow.</p>
                   <speaker>Pedro.</speaker>
                   <p>I'le both believe and trust you—Adieu</p>
                </sp>
-               <stage>Ex. <hi>Ped.</hi> & <hi>Steph.</hi>
+               <stage>Ex. <hi>Ped.</hi> &amp; <hi>Steph.</hi>
                </stage>
                <sp>
                   <speaker>Hell.</speaker>
@@ -614,7 +614,7 @@ up indeed, will you.</p>
                </sp>
                <sp>
                   <speaker>Call.</speaker>
-                  <p>I must obey the Commands I have—besides, do you consider
+                  <p>I must obey the Commands I have—besides, do you con<g ref="char:EOLhyphen"/>sider
 what a life you are going to lead?</p>
                </sp>
                <sp>
@@ -637,7 +637,7 @@ as the rest, and take all Innocent freedomes—Sister you'll go too,
 will you not? come prithee be not sad.—We'll out—wit Twenty
 Brothers, if you'll be rul'd by me—come put off this dull humour
 with your Cloths, and Assume one as gay, and as fantastick, as the
-Dress my Couzen <hi>Valeria,</hi> and I have provided, and let's Ramble.</p>
+Dress my Couzen <hi>Valeria,</hi> and I have provided, and let's Ram<g ref="char:EOLhyphen"/>ble.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
@@ -665,7 +665,7 @@ drest, and stayes for you.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>'Tis well.—I'll write a Note, and if I chance to see <hi>Belvile,</hi>
+                  <p>'Tis well.—I'll write a Note, and if I chance to see <hi>Bel<g ref="char:EOLhyphen"/>vile,</hi>
 and want an opportunity to speak to him, that shall let him
 know, what I've resolv'd in favour of him.</p>
                </sp>
@@ -724,9 +724,9 @@ Wou'd not that revive you?</p>
                <sp>
                   <speaker>Fred.</speaker>
                   <p>I have found it out; thou hast renew'd thy acquaintance
-with the Lady that cost thee so many sighs at the Siege of <hi>Pampulona—</hi>
+with the Lady that cost thee so many sighs at the Siege of <hi>Pam<g ref="char:EOLhyphen"/>pulona—</hi>
 Pox on't, what d'e you call her—her Brother's a
-Noble <hi>Spaniard</hi>—Nephew to the Dead General—<hi>Florinda—</hi>
+Noble <hi>Spaniard</hi>—Nephew to the Dead General—<hi>Flo<g ref="char:EOLhyphen"/>rinda—</hi>
 Ay <hi>Florinda</hi>—and will nothing serve thy turn but
 that damn'd virtuous Woman? whom on my Conscience thou
 lovest in spight too, because thou seest little or no possibility of
@@ -744,10 +744,10 @@ the severity of a Brother, who perceiving my happiness—</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>'Tis so, to make way for a Pow'rful Rival, the Vice-Roy's
-Son, who has the advantage of me, in being a Man of Fortune,
+                  <p>'Tis so, to make way for a Pow'rful Rival, the Vice<g ref="char:EOLhyphen"/>Roy's
+Son, who has the advantage of me, in being a Man of For<g ref="char:EOLhyphen"/>tune,
 a <hi>Spaniard,</hi> and her Brother's Friend, which gives him
-Liberty to make his Court, whilst I have recourse only to Letters,
+Liberty to make his Court, whilst I have recourse only to Let<g ref="char:EOLhyphen"/>ters,
 and distant looks from her Window, which are as soft and
 kind</p>
                   <p>As those which Heav'n sends down on Penitents.</p>
@@ -784,12 +784,12 @@ if he might have her for nothing.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Whe I 'Sheartlikins I love a Franck Soul—when did you
-ever hear of an honest Woman that took a Man's Money? I warrant
+ever hear of an honest Woman that took a Man's Money? I war<g ref="char:EOLhyphen"/>rant
 <pb n="8" facs="tcp:98343:7"/>
 'em good ones—but Gentlemen, You may be free, you
 have been kept so poor with Parliaments and Protectors, that the
 little Stock you have is not worth preserving—but I thank
-my Stars, I had more Grace than to forfeit my Estate by Cavaliering.</p>
+my Stars, I had more Grace than to forfeit my Estate by Cava<g ref="char:EOLhyphen"/>liering.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -851,7 +851,7 @@ Traveller, but honest, stout, and one of us.</p>
                   <p>But well,—Faith I'm glad to meet you again in a warm
 Climate, where the kind Sun has its God-like Pow'r still over
 the Wine and Women—Love and Mirth! are my bus'ness in
-<hi>Naples,</hi> and if I mistake not the place, here's an Excellent Market
+<hi>Naples,</hi> and if I mistake not the place, here's an Excellent Mar<g ref="char:EOLhyphen"/>ket
 for Chapmen of my humour.</p>
                </sp>
                <sp>
@@ -869,47 +869,47 @@ pinn'd on their Breasts, and Baskets of Flowers in their Hands.</stage>
                <sp>
                   <pb n="9" facs="tcp:98343:7"/>
                   <speaker>Fred.</speaker>
-                  <p>Now the game begins.</p>
+                  <p>Now the Game begins.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Fine pretty creatures! May a stranger have leave to look
-and love?—What's here—<hi>Roses for every moneth?</hi>
+                  <p>Fine pretty Creatures! may a stranger have leave to look
+and love?—What's here—<hi>Roses for every Month?</hi>
                   </p>
                </sp>
                <stage>[Reads the Papers.</stage>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Roses for every moneth? What means that?</p>
+                  <p>Roses for every Month? what means that?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>They are, or wou'd have you think they're courtizans,
-who here in <hi>Naples,</hi> are to be hir'd by the moneth.</p>
+                  <p>They are, or wou'd have you think they're Courtizans,
+who here in <hi>Naples,</hi> are to be hir'd by the Moneth.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Kind, and obliging to inform us—Pray where do these
-roses grow? I wou'd fain plant some of 'em in a bed of mine.</p>
+Roses grow? I wou'd fain plant some of 'em in a Bed of mine.</p>
                </sp>
                <sp>
                   <speaker>Wom.</speaker>
-                  <p>Beware such roses, Sir.</p>
+                  <p>Beware such Roses, Sir.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>A pox of fear: I'll be bak't with thee between a pair of sheets, and
-that's they proper still; so I might but strew such roses
-over me, and under me—fair one, wou'd you wou'd give
-me leave to gather at your bush<note>A tavern (Oxford English Dictionary)</note> this idle moneth; I wou'd go
-near to make some body smell of it all the year after.</p>
+                  <p>A Pox of Fear: I'll be bak't with thee between a pair of
+Sheets, and that's thy proper Still; so I might but strew such Ro<g ref="char:EOLhyphen"/>ses
+over me, and under me—Fair one, Wou'd you wou'd give
+me leave to gather at your Bush this idle Moneth; I wou'd go
+near to make some Body smell of it all the year after.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>And thou hast need of such a remedy, for thou stink'st
-of tar and ropes ends, like a dock or pest-house<note>An hospital for people suffering from an infectious disease (Oxford English Dictionary)</note>.</p>
+                  <p>And thou hast need of such a Remedy, for thou stink'st
+of Tar and Ropes Ends, like a Dock or Pest-house.</p>
                </sp>
-               <stage>[The Woman puts herself into the Hands of a Man, and Exits.</stage>
+               <stage>[The Woman puts herself into the Hands of a Man, and Ex.</stage>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Nay, nay, you shall not leave me so.</p>
@@ -920,71 +920,71 @@ of tar and ropes ends, like a dock or pest-house<note>An hospital for people suf
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Death! Just as I was going to be damnably in love, to
-have her led off! I could pluck that rose out of his hand, and
-even kiss the bed, the bush grew in.</p>
+                  <p>Death! Just as I was going to be damnably in Love, to
+have her led off! I could pluck that Rose out of his Hand, and
+even kiss the Bed, the Bush grew in.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
-                  <p>No friend to love, like a long voyage at sea.</p>
+                  <p>No Friend to Love, like a long Voyage at Sea.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Except a nunnery, <hi>Fred.</hi>
+                  <p>Except a Nunnery, <hi>Fred.</hi>
                   </p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Death! But will they not be kind? Quickly be kind?
-Thou know'st I'm no tame sigher, but a rampant lion of the
-forrest.</p>
+                  <p>Death! But will they not be kind? quickly be kind?
+Thou know'st I'm no tame sigher, but a Rampant Lion of the
+Forrest.</p>
                </sp>
                <stage>Advances from the farther end of the Scenes, two Men drest all
-over with horns of several sorts, making grimaces at one
-another, with papers pinn'd on their backs.</stage>
+over with Horns of several sorts, making Grimasses at one
+another, with Papers pinn'd on their Backs.</stage>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Oh the fantastical rogues, how they'r drest! 'Tis a satyre
-against the whole sex.</p>
+                  <p>Oh the fantastical Rogues, how they'r drest! 'Tis a Sa<g ref="char:EOLhyphen"/>tyre
+against the whole Sex.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>'Is this a fruit that grows in this warm countrey?</p>
+                  <p>'Is this a Fruit that grows in this warm Countrey?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
                   <p>Yes: 'Tis pretty to see these <hi>Italians</hi> start, swell and
-stab, at the word cuckold<note>A husband that is being cheated on by his wife</note>; and yet stumble at horns on every
-threshold.</p>
+stab, at the word Cuckold; and yet stumble at Horns on every
+Threshold.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>See what's on their back—<hi>Flowers of every Night.</hi> 
+                  <p>See what's on their Back—<hi>Flowers of every Night.</hi> 
                      <stage>[Reads.</stage>
-—Ah Rogue! and more sweet than roses of ev'ry moneth!
-This is a gardiner of <hi>Adam</hi>'s own breeding.</p>
+—Ah Rogue! and more sweet than Roses of ev'ry Moneth!
+This is a Gardiner of <hi>Adam</hi>'s own breeding.</p>
                </sp>
                <stage>[They dance.</stage>
                <sp>
                   <pb n="10" facs="tcp:98343:8"/>
                   <speaker>Belv.</speaker>
-                  <p>What think you of those grave People?</p>
-                  <p>—is a wake in <hi>Essex</hi><note>Traditionally referred to as the butt of Londoner's jokes.It's an area where people tend to act foolishly or more stupid than usual (The Rover:The Feigned Courtesans;The Lucky Chabnce; The Emperor of the Moon, pg 340)</note> half so mad or extravagant?</p>
+                  <p>What think you of those Grave People?</p>
+                  <p>—is a Wake in <hi>Essex</hi> half so mad or Extravagant?</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I like their sober grave way, 'tis a kind of legal authoriz'd
-fornication, where the men are not chid for't, nor the
-women despis'd, as amongst our dull English, even the monsieurs
-want that part of good manners.</p>
+                  <p>I like their sober grave way, 'tis a kind of Legal Au<g ref="char:EOLhyphen"/>thoriz'd
+Fornication, where the Men are not chid for't, nor the
+Women despis'd, as amongst our dull English, even the Monsieurs
+want that part of good Manners.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>But here in <hi>Italy,</hi> a monsieur is the humblest best bred
-gentleman—duels are so bafled by <hi>Bravo</hi>'s, that an age
+                  <p>But here in <hi>Italy,</hi> a Monsieur is the humblest best bred
+Gentleman—Duels are so bafled by <hi>Bravo</hi>'s, that an Age
 shews not one but between a <hi>French-man,</hi> and a hang-man, who
-is as much too hard for him on the <hi>Piaza,</hi><note>A public space or marketsquare</note> as they are for a <hi>Dutch<g ref="char:EOLhyphen"/>man</hi>
-on the New Bridge<note>Stated that the hangman beat the Frenchman in theri contest, just as the French beat the Dutch in theirs: a reference to an incident in 1672, when Nieuwerbrug (New Bridge), a dutch garrison post on a branch of the Rhine, fell to the French (The Rover: The Feigned Courtesans; The Lucky Chance; The Emperor of the Moon, pg 340).</note>—but see another crew.</p>
+is as much too hard for him on the <hi>Piaza,</hi> as they are for a <hi>Dutch<g ref="char:EOLhyphen"/>man</hi>
+on the New Bridge—but see another Crew.</p>
                </sp>
                <stage>
                   <hi>Enter</hi> Florinda, Hellena <hi>and</hi> Valeria, <hi>drest like Gipsies;</hi> Callis
@@ -992,83 +992,84 @@ on the New Bridge<note>Stated that the hangman beat the Frenchman in theri conte
                </stage>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Sister, there's your <hi>English Man,</hi> and with him a handsome
-proper fellow—I'le to him, and instead of telling him
+                  <p>Sister, there's your <hi>English Man,</hi> and with him a hand<g ref="char:EOLhyphen"/>some
+proper Fellow—I'le to him, and instead of telling him
 his Fortune, try my own.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>
-                     <hi>Gipsies</hi> on my life—sure these will prattle if a man
+                     <hi>Gipsies</hi> on my life—sure these will prattle if a Man
 crosse their hands. <stage>[<hi>Goes to</hi> Hellena.</stage>
-—dear, pretty, (and I hope) young Devil, will you tell an amorous
+—dear, pretty, (and I hope) young Devil, will you tell an Amo<g ref="char:EOLhyphen"/>rous
 stranger, what luck he's like to have?</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Have a care how you venture with me Sir, least I pick
-your pocket, which will more vex your <hi>English</hi> humour<note>A mixture of sharp wit and sarcastic comments</note>, than
-an <hi>Italian</hi> fortune<note>Usually characterized by inherited wealth</note> will please you.</p>
+your Pocket, which will more vex your <hi>English</hi> humour, than
+an <hi>Italian</hi> Fortune will please you.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>How the Devil cam'st thou to know my countrey and
-humour?</p>
+                  <p>How the Devil cam'st thou to know my Countrey and
+Humour?</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>The first I guess by a certain forward impudence, which
-does not displease me at this time, and the loss of your money will
+                  <p>The First I guess by a certain forward Impudence, which
+does not displease me at this time, and the loss of your Money will
 vex you, because I hope you have but very little to lose.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Egad child thou'rt ith' right, it is so little, I dare not
+                  <p>Egad Child thou'rt ith' right, it is so little, I dare not
 offer it thee for a kindness—but cannot you divine what other
-things of more value I have about me, that I wou'd more willingly
+things of more value I have about me, that I wou'd more willing<g ref="char:EOLhyphen"/>ly
 part with.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Indeed no, that's the bus'ness of a witch, and I am but a
-gipsie yet.—Yet without looking in your hand, I have a parlous
-guess, 'tis some foolish heart you mean, an inconstant <hi>English</hi>
-heart, as little worth stealing as your purse.</p>
+                  <p>Indeed no, that's the bus'ness of a Witch, and I am but a
+Gipsie yet.—Yet without looking in your hand, I have a parlous
+guess, 'tis some Foolish heart you mean, an Inconstant <hi>English</hi>
+heart, as little worth stealing as your Purse.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Nay, then thou dost deal with the Devil, that's certain.—
+                  <p>Nay, then thou dost deal with the Devil, that's cer<g ref="char:EOLhyphen"/>tain.—
 thou hast guest as right, as if thou had'st been one of
-that number it has languisht for.—I find you'l be better acquainted
+<pb n="11" facs="tcp:98343:8"/>
+that number it has languisht for.—I find you'l be better ac<g ref="char:EOLhyphen"/>quainted
 with it, nor can you take it in a better time; for I am
-come from sea<note>Mythical goddess Venus born of sea-foam known for balance and fertility</note>, child, and <hi>Venus</hi><note>Roman goddess known for love, sex, and victory</note> not being propitious to me
-in her own element: I have a world of love in store—wou'd
+come from Sea, Child, and <hi>Venus</hi> not being propitious to me
+in her own Element: I have a world of Love in store—wou'd
 you wou'd be good natur'd and take some on't off my hands.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Whe—I cou'd be inclin'd that way—but for a foolish
-vow I am going to make—to dye a maid.</p>
+                  <p>Whe—I cou'd be inclin'd that way—but for a Foolish
+Vow I am going to make—to dye a Maid.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Then thou art damn'd without redemption, and as I am a
-good Christian, I ought in charity to divert so wicked a design
-—therefore prithee dear creature let me know quickly when,
-and where I shall begin to set a helping hand to so good a work.</p>
+good Christian, I ought in Charity to divert so wicked a design
+—therefore prithee dear Creature let me know quickly when,
+and where I shall begin to set a helping hand to so good a Work.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>If you shou'd prevail with my tender heart (as I begin
-to fear you will, for you have horrible loving eyes) there will be
+to fear you will, for you have horrible loving Eyes) there will be
 difficulty in't, that you'l hardly undergo for my sake.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Faith child I have been bred in dangers, and wear a
-sword, that has been employ'd in a worse cause, than for a handsome
-kind woman—name the danger—let it be any thing
-but a long siege—and I'le undertake it.</p>
+                  <p>Faith Child I have been bred in dangers, and wear a
+Sword, that has been employ'd in a worse Cause, than for a hand<g ref="char:EOLhyphen"/>some
+kind Woman—name the danger—let it be any thing
+but a long Siege—and I'le undertake it.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
@@ -1080,25 +1081,25 @@ but a long siege—and I'le undertake it.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>What think you of a Nunnery Wall?<note>A proverbial barrier to her person.</note> For he that wins
+                  <p>What think you of a Nunnery Wall? for he that wins
 me, must gain that first.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>A nun! Oh how I love thee for't! There's no sinner
+                  <p>A Nun! Oh how I love thee for't! there's no sinner
 like a young Saint—nay now there's no denying me, the Old
-Law<note>First presented in the Ten Commandments as the baseline for vocational responsibilities of the male sex.(The Vatican)</note> had no curse (to a woman) like dying a maid; witness
-<hi>Ieptha's</hi> daughter.</p>
+Law had no Curse (to a Woman) like dying a Maid; witness
+<hi>Ieptha's</hi> Daughter.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>A very good text this, if well handled, and I perceive
+                  <p>A very good Text this, if well handled, and I perceive
 Father Captain, you wou'd impose no severe penance on her who
-were inclin'd to console her self, before she took orders.</p>
+were inclin'd to Console her self, before she took Orders.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>If she be young and handsome.</p>
+                  <p>If she be Young and Handsome.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
@@ -1106,56 +1107,57 @@ were inclin'd to console her self, before she took orders.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>By this hand, child, I have an implicit faith, and dare
-venture on thee with all faults—besides, 'tis more meritorious
-to leave the world, when thou hast tasted and prov'd the pleasure
+                  <p>By this hand, Child, I have an Implicit Faith, and dare
+venture on thee with all Faults—besides, 'tis more meritorious
+to leave the World, when thou hast tasted and prov'd the plea<g ref="char:EOLhyphen"/>sure
 on't. Then 'twill be a virtue in thee, which now will be
-pure ignorance.</p>
+pure Ignorance.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>I perceive good Father Captain, you design only to
 make me fit for Heaven—but if on the contrary, you shou'd
-quite divert me from it, and bring me back to the world again,
-I shou'd have a new man to seek I find; and what a grief that
+quite divert me from it, and bring me back to the World again,
+I shou'd have a new Man to seek I find; and what a grief that
+<pb n="12" facs="tcp:98343:9"/>
 will be—for when I begin, I fancy I shall love like any thing,
 I never try'd yet.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Egad and that's kind—prithee dear creature, give
-me credit for a heart, for faith I'm a very honest fellow—Oh,
-I long to come first to the Banquet of Love! And such a swinging
-appetite I bring—Oh I'm impatient.—thy lodging sweetheart,
-thy lodging! or I'm a dead man!</p>
+                  <p>Egad and that's kind—prithee dear Creature, give
+me credit for a Heart, for faith I'm a very honest Fellow—Oh,
+I long to come first to the Banquet of Love! and such a swinging
+Appetite I bring—Oh I'm impatient.—thy Lodging sweet<g ref="char:EOLhyphen"/>heart,
+thy Lodging! or I'm a dead Man!</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Why must we be either guilty of fornication or murder
-if we converse with you men—and is there no difference
-between leave to love me, and leave to lie with me?</p>
+                  <p>Why must we be either guilty of Fornication or Mur<g ref="char:EOLhyphen"/>der
+if we converse with you Men—and is there no difference
+between leave to love me, and leave to lye with me?</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Faith child they were made to go together.</p>
+                  <p>Faith Child they were made to go together.</p>
                </sp>
                <sp>
                   <speaker>Lucett.</speaker>
-                  <p>Are you sure this is the man?</p>
+                  <p>Are you sure this is the Man?</p>
                </sp>
                <stage>[<hi>Pointing to</hi> Blunt.</stage>
                <sp>
                   <speaker>Sancho.</speaker>
-                  <p>When did I mistake your game?</p>
+                  <p>When did I mistake your Game?</p>
                </sp>
                <sp>
                   <speaker>Lucett.</speaker>
-                  <p>This is a stranger, I know by his gazing; if he be brisk,
-he'l venture to follow me; and then if I understand my trade,
+                  <p>This is a Stranger, I know by his gazing; if he be brisk,
+he'l venture to follow me; and then if I understand my Trade,
 he's mine, he's English too; and they say that's a sort of good
-natur'd loving people, and have generally so kind an opinion of
-themselves, that a woman with any wit may flatter e'm into any
-sort of fool she pleases.</p>
+natur'd loving People, and have generally so kind an opinion of
+themselves, that a Woman with any Wit may Flatter e'm into any
+sort of Fool she pleases.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
@@ -1169,21 +1171,21 @@ and walks and gazes on her.</stage>
                <sp>
                   <speaker>Flor.</speaker>
                   <p>This Woman watches me so, I shall get no opportunity
-to discover my self to him, and so miss the intent of my coming
+to discover my self to him, and so miss the intent of my co<g ref="char:EOLhyphen"/>ming
 —but as I was saying, Sir,—by this Line you shou'd
 be a Lover.</p>
                </sp>
                <stage>[Looking in his hand.</stage>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>I thought how right you guessed, all men are in Love,
+                  <p>I thought how right you guest, all Men are in Love,
 or pretend to be so—come let me go, I'm weary of this
 fooling.</p>
                </sp>
                <stage>[Walks away.</stage>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>I will not, till you have confest whether the passion that
+                  <p>I will not, till you have confest whether the Passion that
 you have vow'd <hi>Florinda,</hi> be true or false?</p>
                </sp>
                <stage>She holds him, he strives
@@ -1203,7 +1205,7 @@ to get from her.</stage>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>She'll be disappointed then, who expects you this night
+                  <p>She'll be disappointed then, who expects you this Night
 at the Garden-gate, and if you fail not—as let me see the other
 hand—you will go near to do—she vows to dye or make you
 happy.</p>
@@ -1508,7 +1510,7 @@ fancy <hi>Angelica.</hi>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>This is her House, if you were but in stock to get admit<g ref="char:EOLhyphen"/>tance;
+                  <p>This is her House, if you were but in stock to get admittance;
 they have not din'd yet; I perceive the Picture is not out.</p>
                </sp>
                <stage>
@@ -1582,7 +1584,7 @@ than a secret Amour.</p>
                   <p>Dost know her Name?</p>
                </sp>
                <sp>
-                  <speaker>Bluns.</speaker>
+                  <speaker>Blunt.</speaker>
                   <p>Her Name? No, 'sheartlikins what care I for Names.
 —She's fair! young! brisk and kind! even to ravishment!
 and what a Pox care I for knowing her by any other Title.</p>
@@ -1593,11 +1595,11 @@ and what a Pox care I for knowing her by any other Title.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Give her!—Ha, ha, ha! whe she's a Person of Qua<g ref="char:EOLhyphen"/>lity;
+                  <p>Give her!—Ha, ha, ha! whe she's a Person of Quality;
 —that's a good one, give her! 'sheartlikins dost think
 such Creatures are to be bought? Or are we provided for such a
 Purchase? give her quoth ye? Why she presented me with this
-Bracelet, for the Toy of a Diamond I us'd to wear: No, Gentle<g ref="char:EOLhyphen"/>men,
+Bracelet, for the Toy of a Diamond I us'd to wear: No, Gentlemen,
 <hi>Ned Blunt</hi> is not every Body—She expects me again to
 Night.</p>
                </sp>
@@ -1619,7 +1621,7 @@ unlade.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Take the necessary Trifle useless now to me, that am be<g ref="char:EOLhyphen"/>lov'd
+                  <p>Take the necessary Trifle useless now to me, that am belov'd
 by such a Gentlewoman—'sheartlikins Money! Here take
 mine too.</p>
                </sp>
@@ -1644,10 +1646,10 @@ a House! such Furniture, and so Attended! a Whore!</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Why yes Sir, they are Whores, tho' they'll neither en<g ref="char:EOLhyphen"/>tertain
+                  <p>Why yes Sir, they are Whores, tho' they'll neither entertain
 you with Drinking, Swearing, or Bawdry; are Whores in
 all those gay Cloths, and right Jewels, are Whores with those
-great Houses richly furnisht with Velvet Beds, Store of Plate, hand<g ref="char:EOLhyphen"/>some
+great Houses richly furnisht with Velvet Beds, Store of Plate, handsome
 Attendance, and fine Coaches, are Whores and Errant ones.</p>
                </sp>
                <sp>
@@ -1687,7 +1689,7 @@ Price too high.</p>
                   <p>May she languish for Mankind till she dye, and be damn'd
 for that one sin alone.</p>
                </sp>
-               <stage>Enter <hi>Two Bravo's,</hi> and hang up a great Picture of <hi>Angel<g ref="char:EOLhyphen"/>lica's,</hi>
+               <stage>Enter <hi>Two Bravo's,</hi> and hang up a great Picture of <hi>Angellica's,</hi>
 against the Balcone, and Two little ones
 at each side of the Door.</stage>
                <sp>
@@ -1722,7 +1724,7 @@ thy Bed at a price of a Coach in the Street.</p>
                   <speaker>Will.</speaker>
                   <p>How wondrous fair she is—a Thousand Crowns a
 Month—by Heaven as many Kingdoms were too little, a plague
-of this Poverty—of which I ne're complain, but when it hin<g ref="char:EOLhyphen"/>ders
+of this Poverty—of which I ne're complain, but when it hinders
 my approach to Beauty: which Virtue ne're cou'd purchase.</p>
                </sp>
                <stage>[Turns from the Picture.</stage>
@@ -1780,7 +1782,7 @@ at the Sum, and so past off.</p>
                   <speaker>Ang.</speaker>
                   <p>No Matter, I'm not displeas'd with their rallying; their
 wonder feeds my vanity, and he that wishes but to buy, gives
-me more Pride, than he that gives my Price, can make my plea<g ref="char:EOLhyphen"/>sure.</p>
+me more Pride, than he that gives my Price, can make my pleasure.</p>
                </sp>
                <sp>
                   <speaker>Brav.</speaker>
@@ -1794,12 +1796,12 @@ be <hi>Don Pedro,</hi> Nephew to the General, and who was with him in
                   <p>
                      <hi>Don Pedro!</hi> my old Gallant's Nephew, when his Uncle
 dy'd he left him a vast Sum of Money; it is he who was so in love
-with me at <hi>Padua,</hi> and who us'd to make the General so Jea<g ref="char:EOLhyphen"/>lous.</p>
+with me at <hi>Padua,</hi> and who us'd to make the General so Jealous.</p>
                </sp>
                <sp>
                   <speaker>Morett.</speaker>
                   <p>Is this he that us'd to prance before our Window, and
-take such care to shew himself an Amorous Ass? If I am not mista<g ref="char:EOLhyphen"/>ken
+take such care to shew himself an Amorous Ass? If I am not mistaken
 he is the likeliest Man to give your price.</p>
                </sp>
                <sp>
@@ -1808,7 +1810,7 @@ he is the likeliest Man to give your price.</p>
                   <p>The Man is brave and generous, but of an humour so
 uneasie and inconstant, that the victory over his heart is as soon
 lost as won, a Slave that can add little to the Triumph of the
-Conquerour, but Inconstancy's the sin of all Mankind, there<g ref="char:EOLhyphen"/>fore
+Conquerour, but Inconstancy's the sin of all Mankind, therefore
 I'm resolv'd that nothing but Gold, shall charm my heart.</p>
                </sp>
                <sp>
@@ -1820,7 +1822,7 @@ in Love.</p>
                </sp>
                <sp>
                   <speaker>Ang.</speaker>
-                  <p>A kind, but sullen Star under which I had the happi<g ref="char:EOLhyphen"/>ness
+                  <p>A kind, but sullen Star under which I had the happiness
 to be born; yet I have had no time for Love; the bravest
 and noblest of Mankind have purchast my favours at so dear a
 rate, as if no Coin but Gold were currant with our Trade—
@@ -1828,7 +1830,7 @@ but here's <hi>Don Pedro</hi> again, fetch me my Lute—for 'tis for him
 or <hi>Don Antonio</hi> the Vice-Roys Son, that I have spread my Nets.</p>
                </sp>
                <stage>Enter at one Door <hi>Don Pedro, Stephano; Don Antonio</hi> and
-<hi>Diego</hi> at the other Door with People following him in Masque<g ref="char:EOLhyphen"/>rade,
+<hi>Diego</hi> at the other Door with People following him in Masquerade,
 antickly attir'd, some with Musick, they both go up to the
 Picture.</stage>
                <sp>
@@ -1840,7 +1842,7 @@ I shou'd not think it dear.</p>
                   <speaker>Pedro.</speaker>
                   <p>Flatter'd her! by Heav'n he cannot, I have seen the
 Original, nor is there one Charm here more than Adorns her
-Face and Eyes; all this soft and sweet, with a certain languish<g ref="char:EOLhyphen"/>ing
+Face and Eyes; all this soft and sweet, with a certain languishing
 Air, that no Artist can represent.</p>
                </sp>
                <sp>
@@ -1855,8 +1857,8 @@ this confirmation of it has blown it to a flame.</p>
                <sp>
                   <speaker>Page.</speaker>
                   <p>Sir, I have known you throw away a Thousand Crowns
-on a worse face, and tho y'are near your Marriage, you may ven<g ref="char:EOLhyphen"/>ture
-a little Love here<g ref="char:punc">▪</g> 
+on a worse face, and tho y'are near your Marriage, you may venture
+a little Love here;
                      <hi>Florinda</hi> will not miss it.</p>
                </sp>
                <sp>
@@ -1884,7 +1886,7 @@ Her Injuries! by Heaven he shall not boast of.</p>
                   <pb n="21" facs="tcp:98343:13"/>
                   <head>SONG.</head>
                   <lg>
-                     <l>WHen <hi>Damon</hi> first began to Love</l>
+                     <l>When <hi>Damon</hi> first began to Love</l>
                      <l>He languisht in a soft desire,</l>
                      <l>And knew not how the Gods to move,</l>
                      <l>To lessen or increase his Fire.</l>
@@ -2024,7 +2026,7 @@ Beauty—I will shew mine too.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>That of Possession which I will maintain—you per<g ref="char:EOLhyphen"/>haps
+                  <p>That of Possession which I will maintain—you perhaps
 have a 1000 Crowns to give for the Original.</p>
                </sp>
                <sp>
@@ -2065,7 +2067,7 @@ began this Insolence—</p>
                <sp>
                   <speaker>Will.</speaker>
                   <p>'Tis true, I did so, if you call it Insolence for a Man to
-preserve himself; I saw your Charming Picture and was woun<g ref="char:EOLhyphen"/>ded;
+preserve himself; I saw your Charming Picture and was wounded;
 quite through my Soul each pointed Beauty ran; and
 wanting a Thousand Crowns to procure my remedy—I laid
 this little Picture to my Bosom—which if you cannot allow
@@ -2089,12 +2091,12 @@ part'em.—</p>
                <stage>[The Spaniards are beaten off.</stage>
                <sp>
                   <speaker>Morett.</speaker>
-                  <p>Oh Madam, we're undone, a pox upon that rude Fel<g ref="char:EOLhyphen"/>low,
+                  <p>Oh Madam, we're undone, a pox upon that rude Fellow,
 low, he's set on to ruine us: we shall never see good days, till all
 these fighting poor Rogues are sent to the Gallies.</p>
                </sp>
                <stage>
-                  <hi>Enter</hi> Belvile, Blunt Fred. <hi>and</hi> Wilmour <hi>with's shirt bloody.</hi>
+                  <hi>Enter</hi> Belvile, Blunt, Fred. <hi>and</hi> Wilmour <hi>with's shirt bloody.</hi>
                </stage>
                <sp>
                   <speaker>Blunt.</speaker>
@@ -2161,7 +2163,7 @@ Murder thee.</p>
                   <speaker>Will.</speaker>
                   <p>Oh! fear me not, shall I not venture where a Beauty calls?
 a lovely Charming Beauty! for fear of danger! when by
-Heav'n there's none so great, as to long for her, whil'st I want Mo to
+Heav'n there's none so great, as to long for her, whil'st I want Mo<g ref="char:EOLhyphen"/>to
 purchase her.</p>
                </sp>
                <sp>
@@ -2176,7 +2178,7 @@ the pleasure of Saluting her when I enter, and when I depart.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Pox, she'll as soon lye with thee, as kiss thee, and sooner
+                  <p>Pox, she'll as soon lye with thee, as kiss thee, and soon<g ref="char:EOLhyphen"/>er
 stab than do either—you shall not go.</p>
                </sp>
                <sp>
@@ -2214,7 +2216,7 @@ Street—farewell Fool—Farewell—</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Rather, how durst you set it up, to tempt poor Am'rous
+                  <p>Rather, how durst you set it up, to tempt poor Am'rous<g ref="char:punc">▪</g>
 Mortals with so much excellence? which I find you have but
 too well consulted by the unmerciful price you set upon't.—
 <pb n="25" facs="tcp:98343:15"/>
@@ -2285,7 +2287,7 @@ wherein Beauty is at higher rates—In fine you know the price of this.</p>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Igrant you 'tis here—set down a Thousand Crowns
-a Month—pray how much may come to my Share for a Pistol.
+a Month—pray how much may come to my Share for a Pi<g ref="char:EOLhyphen"/>stol.
 —Bawd take your black Lead and Sum it up, that I may
 have a Pistols worth of this vain gay things, and I'll trouble
 you no more.</p>
@@ -2315,7 +2317,7 @@ how I despise this railing.</p>
                <sp>
                   <speaker>Will.</speaker>
                   <l>Yes, I am poor—but I'm a Gentleman,</l>
-                  <l>And one that Scornes this baseness<note>membership or characteristic of a lower social class (OED)</note>which you practice;</l>
+                  <l>And one that Scornes this baseness which you practice;</l>
                   <l>Poor as I am, I wou'd not sell my self,</l>
                   <l>No not to gain your Charming high priz'd Person.</l>
                   <l>Tho' I admire you strangely for your Beauty,</l>
@@ -2414,7 +2416,7 @@ flatter me a little, 'twill please me from thy mouth.</p>
                <sp>
                   <speaker>Ang.</speaker>
                   <l>By all that's good 'tis real,</l>
-                  <l>I never lov'd before, tho oft<note>shortening of often (OED)</note>a Mistress.</l>
+                  <l>I never lov'd before, tho oft a Mistress.</l>
                   <l>—Shall my first Vows be slighted?</l>
                </sp>
                <sp>
@@ -2429,14 +2431,14 @@ flatter me a little, 'twill please me from thy mouth.</p>
                <stage>[In an angry tone.</stage>
                <sp>
                   <speaker>Will.</speaker>
-                  <l>I know you take me for an errant<note>travelling or roaming (OED)</note>Ass,</l>
+                  <l>I know you take me for an errant Ass,</l>
                   <l>An Ass that may be sooth'd into belief,</l>
                   <l>
                      <pb n="28" facs="tcp:98343:17"/>
 And then be us'd at pleasure;</l>
                   <l>—But, Madam, I have been so often cheated</l>
                   <l>By perjur'd soft deluding Hypocrites,</l>
-                  <l>That I've no faith left for the couzening<note>also spelled cozening, it means cheating, deceitful or fraudulent (OED)</note>Sex;</l>
+                  <l>That I've no faith left for the couzening Sex;</l>
                   <l>Especially for Women of your Trade.</l>
                </sp>
                <sp>
@@ -2510,7 +2512,7 @@ my zeal.</p>
 to this? to love the only Enemy to our Trade? nay, to love
 such a Shameroone, a very Beggar, nay a Pyrate Beggar, whose
 business is to rifle, and be gone, a no Purchase, no Pay Taterde<g ref="char:EOLhyphen"/>malion,
-and <hi>English</hi> Piccaroon<note>a pirate or privateer (OED)</note>.</p>
+and <hi>English</hi> Piccaroon.</p>
                   <p>A Rogue that fights for daily drink, and takes a Pride in being
 Loyally Lousie—Oh I cou'd curse now, if I durst.—This is the
 Fate of most Whores.</p>
@@ -2527,7 +2529,7 @@ Fate of most Whores.</p>
             <div n="1" type="scene">
                <head>Scene I. A Street.</head>
                <stage>
-                  <hi>Enter</hi> Florinda, Valeria, Hellena, <hi>in Antick<note>in dress or attire (OED)</note>different Dresses,
+                  <hi>Enter</hi> Florinda, Valeria, Hellena, <hi>in Antick different Dresses,
 from what they were in before.</hi> Callis <hi>attending.</hi>
                </stage>
                <sp>
@@ -2539,7 +2541,7 @@ Morning.</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>No, if he had, we shou'd have heard on't at both Ears,
-and have been Mew'd<note>in hiding or a place of confinement, like a cage (OED)</note>up this Afternoon; which I wou'd not
+and have been Mew'd up this Afternoon; which I wou'd not
 for the World shou'd have hapned—hey ho, I'm as sad as a Lo<g ref="char:EOLhyphen"/>ver's
 Lute.—</p>
                </sp>
@@ -2555,7 +2557,7 @@ methinks <hi>Hellena</hi> has been very serious ever since.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>I wou'd give my Garters<note>A band worn around the leg to keep the stocking from falling down (OED)</note> she were in Love, to be reveng'd
+                  <p>I wou'd give my Garters she were in Love, to be reveng'd
 upon her, for abusing me—how is't, <hi>Hellena?</hi>
                   </p>
                </sp>
@@ -2574,7 +2576,7 @@ a Lover, a fellow that I warrant loves every new Face he sees.</p>
                   <speaker>Hell.</speaker>
                   <p>Hum—he has not kept his word with me here—and
 may be taken up—that thought is not very pleasant to me—
-what the Deuce<note>Bad luck, plague, mischief (OED)</note> shou'd this be now, that I feel?</p>
+what the Deuce shou'd this be now, that I feel?</p>
                </sp>
                <sp>
                   <speaker>Val.</speaker>
@@ -2597,28 +2599,28 @@ Neck, and then be as mad to get free again.</p>
                <sp>
                   <speaker>Flor.</speaker>
                   <p>Yes, <hi>Valeria,</hi> we shall see her bestride his Baggage Horse,
-and follow him to the Campaigne<note>A tract of open country; a plain (OED)</note>.</p>
+and follow him to the Campaigne.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>So, so, now you are provided for, there's no care taken of
 poor me—but since you have set my heart a wishing—I am
-resolv'd to know for what, I will not dye of the Pip<note>Chiefly humorous. A disease or ailment of the mouth (OED)</note>, so I will
+resolv'd to know for what, I will not dye of the Pip, so I will
 not.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
                   <p>Art thou mad to talk so? who will like thee well enough
-to have thee, that hears what a mad Wench thou art?</p>
+to have thee, that, hears what a mad Wench thou art?</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>Like me! I don't intend every he that likes me shall
 have me, but he that I like; I shou'd have staid in the Nunnery
 still, if I had lik'd my Lady <hi>Abbesse</hi> as well as she lik'd me—no,
-I came thence not (as my wise Brother imagines) to take an Eternal
-Farewel of the World, but to Love, and to be belov'd, and I
-will be belov'd, or I'll get one of your Men, so I will.</p>
+I came thence not (as my wise Brother imagines) to take an Eter<g ref="char:EOLhyphen"/>nal
+Farewel of the World, but to Love, and to be belov'd, and
+I will be belov'd, or I'll get one of your Men, so I will.</p>
                </sp>
                <sp>
                   <speaker>Val.</speaker>
@@ -2628,7 +2630,7 @@ will be belov'd, or I'll get one of your Men, so I will.</p>
                   <speaker>Hell.</speaker>
                   <p>You? why Couz, I know thou'rt too good natur'd to
 leave us in any design: thou wou't venture a Cast, tho thou comest
-off a loser, especially with such a Gamester<note>A player of any game; a participant in or enthusiast for a sport or pastime (OED)</note>.—I observe your
+off a loser, especially with such a Gamester.—I observe your
 Man, and your willing Ear incline that way; and if you are not
 <pb n="31" facs="tcp:98343:18"/>
 a Lover, 'tis an Art soon learnt—that I find.</p>
@@ -2645,7 +2647,7 @@ Soul—thou art too rash to give a heart at first sight.</p>
                   <speaker>Hell.</speaker>
                   <p>Hang your considering Lover; I never thought beyond
 the fancy that 'twas a very pretty, idle, silly, kind of pleasure to
-pass one's time with, to write little soft Nonsensical Billiets<note>A short written document; a small paper, or note; a label (OED)</note>, and
+pass ones time with, to write little soft. Nonsensical Billiets, and
 with great difficulty and danger receive Answers; in which I
 shall have my Beauty prais'd, my Wit admir'd, (tho little or none)
 and have the vanity and pow'r to know I am desirable; then I
@@ -2664,7 +2666,7 @@ they'l think my mind's upon my Monastery, and cry how happy
                   <speaker>Hell.</speaker>
                   <p>I'll warrant, if my Brother hears either of you sigh, he
 cryes (gravely)—I fear you have the indiscretion to be in
-Love, but take heed of the Honour of our House, and your own unspotted
+Love, but take heed of the Honour of our House, and your own un<g ref="char:EOLhyphen"/>spotted
 Fame, and so he Conjures on till he has laid the soft wing'd
 God in your Hearts, or broke the Birds Nest—but see here
 comes your Lover, but where's my Inconstant? let's step aside,
@@ -2971,7 +2973,7 @@ Lips! and small even white Teeth! not to be exprest, but si<g ref="char:EOLhyphe
 ador'd!—oh one look more! and strike me dumb, or I
 shall repeat nothing else till I'm mad.</p>
                </sp>
-               <stage>[He seems to Court her to pull off her Vizar<note>The front part of a helmet, covering the face but provided with holes or openings to admit of seeing and breathing, and capable of being raised and lowered;(OED)</note>: she refuses.</stage>
+               <stage>[He seems to Court her to pull off her Vizar: she refuses.</stage>
                <sp>
                   <speaker>Ang.</speaker>
                   <p>I can endure no more—nor is it fit to interrupt him, for
@@ -2998,8 +3000,8 @@ with in the mean time.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
-                  <p>Pray leave your Intercession<note>The action of interceding or pleading on behalf of (rarely against),(OED)</note>, and mind your own Affair,
-they'l better agree apart; he's a modest sigher<note>To emit, give, or heave a sigh(OED)</note> in Company, but
+                  <p>Pray leave your Intercession, and mind your own Affair,
+they'l better agree apart; he's a modest sigher in Company, but
 alone no Woman scapes him.</p>
                </sp>
                <sp>
@@ -3007,8 +3009,8 @@ alone no Woman scapes him.</p>
                   <p>Sure he does but rally—yet if it shou'd be true—
 I'll tempt him farther—believe me, Noble Stranger, I'm no
 common Mistris—and for a little proof on't—wear this
-Jewel<note>An article of value used for adornment, chiefly of the person / possibly a picture of her (OED)</note>—nay, take it, Sir, 'tis right, and Bills of Exchange may
-sometimes miscarry.<note>Phrase meant to suggest that a promise or vow to be "paid" can be counterfeited or easily passed from one to another(O'Brien in class / wikipedia)</note> </p>
+Jewel—nay, take it, Sir, 'tis right, and Bills of Exchange may
+sometimes miscarry.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3043,7 +3045,7 @@ the Jewel, Fool.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>So, if I find him false, my whole Repose<note>Temporary rest or cessation from physical or mental exertion in order to recover one's energy (OED)</note></p>
+                  <p>So, if I find him false, my whole Repose is gone.</p>
                   <stage>[Aside.</stage>
                </sp>
                <sp>
@@ -3059,7 +3061,7 @@ thrive here but as you treat her Friend.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Tell me what you did in yonder House, and I'll unmasque.<note>unmask</note></p>
+                  <p>Tell me what you did in yonder House, and I'll unmasque.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
@@ -3068,17 +3070,17 @@ there's a Friend of mine lives there.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>What a Shee, or a Hee Friend?<note>he and she respectively</note></p>
+                  <p>What a Shee, or a Hee Friend?</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>A Man upon Honour! a Man—a Shee Friend—no,
-no Madam you have done my business I thank you.<note>his female searching and womenizing has ended with her</note></p>
+no Madam you have done my business I thank you.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>And wast your Man Friend, that had more Darts in's
-Eyes, than <hi>Cupid</hi> carries in's whole Budget<note>A pouch, bag, wallet, usually of leather. (OED)</note> of Arrowes.</p>
+Eyes, than <hi>Cupid</hi> carries in's whole Budget of Arrowes.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
@@ -3086,7 +3088,7 @@ Eyes, than <hi>Cupid</hi> carries in's whole Budget<note>A pouch, bag, wallet, u
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Ah such a <hi>Bona Roba!<note>Italian for:A wench; ‘a showy wanton’ (OED)</note></hi> to be in her Arms is lying in <hi>Fres<g ref="char:EOLhyphen"/>co,</hi>
+                  <p>Ah such a <hi>Bona Roba!</hi> to be in her Arms is lying in <hi>Fres<g ref="char:EOLhyphen"/>co,</hi>
 all perfum'd Air about me—was this your Man Friend
 too?</p>
                </sp>
@@ -3138,7 +3140,7 @@ Lady more.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>See her!—whe<note> why.(http://www.bookwolf.com/Wolf/pdf/AphraBehn-TheRover.pdf)</note> never to think of Woman kind again.</p>
+                  <p>See her!—whe never to think of Woman kind again.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
@@ -3147,7 +3149,7 @@ Lady more.</p>
                <stage>[Kneels, she gives him her hand.</stage>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I do never to think—to see—to Love—nor Lye—<note>sleep with</note>
+                  <p>I do never to think—to see—to Love—nor Lye—
 with any but thy self.</p>
                </sp>
                <sp>
@@ -3156,7 +3158,7 @@ with any but thy self.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Oh most Religiously.<note>refers to taking and oath on the bible / Oath:A solemn or formal declaration invoking God (or a god, or other object of reverence) as witness to the truth of a statement, or to the binding nature of a promise or undertaking(OED)</note></p>
+                  <p>Oh most Religiously.</p>
                </sp>
                <stage>[Kisses her hand.</stage>
                <sp>
@@ -3176,10 +3178,10 @@ Fellow.</p>
 I'm gone, you may repent the opportunity you have lost, by
 your Modesty.</p>
                </sp>
-               <stage>Gives him the Jewel which is her Picture, and <hi>Ex.</hi> he gazes after her.</stage>
+               <stage>Gives him the Iewel which is her Picture, and <hi>Ex.</hi> he gazes after her.</stage>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>'Twill be an Age<note> a long time / A period of existence, and related senses.(OED)</note> till to Morrow,—and till then I
+                  <p>'Twill be an Age till to Morrow,—and till then I
 will most impatiently expect you—Adieu my Dear pretty
 <hi>Angell.</hi>
                   </p>
@@ -3188,12 +3190,12 @@ will most impatiently expect you—Adieu my Dear pretty
                <sp>
                   <speaker>Belv.</speaker>
                   <p>Ha! <hi>Florinda's</hi> Picture—'twas she her self—what a
-dull Dog was I?<note>Dull: Not quick in intelligence or mental perception; slow of understanding; not sharp of wit(OED)</note> I wou'd have given the World for one minuts
+dull Dog was I? I wou'd have given the World for one minuts
 discourse with her—</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
-                  <p>This comes of your modesty!—ah pox<note>Senses relating to diseases characterized by pocks(OED. Referencing a sort of curse on his vow</note> o' your vow,
+                  <p>This comes of your modesty!—ah pox o' your vow,
 'twas ten to one, but we had lost the Jewel by't.</p>
                </sp>
                <sp>
@@ -3219,13 +3221,12 @@ Mouth! such Teeth—and so much Witt!—</p>
                <sp>
                   <speaker>Belv.</speaker>
                   <p>Know her! Ay, Ay, and a pox take me with all my
-Heart for being Modest.<note> Reference line 3196 note. Disease take his heart</note></p>
+Heart for being Modest.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>But hearkey<note> "hark ye"= (ref:http://www.bookwolf.com/Wolf/pdf/AphraBehn-TheRover.pdf). To give ear or listen to. (OED)</note>
-  Friend of mine, are you my Rival? and have
-I been only beating the Bush all this while?<note>he thinks he has chased his lady into the arms of another man. To rouse the birds that they may fly into the net held by some one else(OED)</note></p>
+                  <p>But hearkey Friend of mine, are you my Rival? and have
+I been only beating the Bush all this while?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3255,7 +3256,7 @@ for our design.</p>
                   <speaker>Will.</speaker>
                   <p>Agreed.</p>
                   <l>Love does all day the Soules great Empire keep,</l>
-                  <l>But Wine at night Lulls the soft God asleep.<note>metaphor to understand and subdue loves troubling nature by drinking one's self to sleep</note></l>
+                  <l>But Wine at night Lulls the soft God asleep.</l>
                </sp>
                <stage>Exeunt.</stage>
             </div>
@@ -3290,7 +3291,7 @@ and Shape, it made me your absolute Captive.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>Kind heart! how prettily she talks! Egad I'll shew her
-Husband a <hi>Spanish</hi> trick;<note></note> send him out of the World and Marry
+Husband a <hi>Spanish</hi> trick; send him out of the World and Marry
 her: she's damnably in Love with me, and will ne're mind Set<g ref="char:EOLhyphen"/>tlements,
 and so there's that sav'd.</p>
                   <stage>[Aside.</stage>
@@ -3303,7 +3304,7 @@ and so there's that sav'd.</p>
                   <speaker>Blunt.</speaker>
                   <p>Make hast then, for adshartilikins dear Soul thou canst
 not guess at the pain of a longing Lover; when his joys are drawn
-within the compass of a few Minuts.<note> his plan to sleep with her is near completion. Compass: To plan, contrive, devise (OED).Also: navigational reference meaning close in proximity: A compass divided into 360 degrees is the most common unit of measurement. Each degree is divided into 60 minutes, each minute into 60 seconds...those units are used for precise locations using latitude and longitude.(http://www.compassdude.com/compass-units.php)</note></p>
+within the compass of a few Minuts.</p>
                </sp>
                <sp>
                   <speaker>Luc.</speaker>
@@ -3317,7 +3318,7 @@ her, will be worth all the days I ever past in <hi>Essex.</hi>—wou'd she
 wou'd go with me into <hi>England;</hi> tho' to say truth there's plenty
 of Whores already.—But a Pox on 'em they are such Merce<g ref="char:EOLhyphen"/>nary
 —Prodigal Whores, that they want such a one as this, that's
-Free and Generous to give 'em good Examples—Whe<note>why</note> what a
+Free and Generous to give 'em good Examples—Whe what a
 house she has, how rich and fine!</p>
                </sp>
                <sp>
@@ -3329,7 +3330,7 @@ house she has, how rich and fine!</p>
                   <speaker>Blunt.</speaker>
                   <p>Sir, I shall be proud to follow—here's one of her
 Servants too! 'Sheartlikins by this garb and gravity, he might be
-a Justice of Peace in <hi>Essex,</hi><note>addressing his clothes, in England he could be "A magistrate appointed to hear minor cases, grant licences, etc" (OED)</note> and is but a Pimp here.</p>
+a Justice of Peace in <hi>Essex,</hi> and is but a Pimp here.</p>
                </sp>
                <stage>[Exeunt.</stage>
                <stage>The Scene Changes to a Chamber with an Alcove Bed in't, a Table,
@@ -3337,7 +3338,7 @@ a Justice of Peace in <hi>Essex,</hi><note>addressing his clothes, in England he
 Candle of <hi>Sancho</hi> at the Door.</stage>
                <sp>
                   <speaker>Sancho.</speaker>
-                  <p>Sir, my Commission<note>his job or orders; Authority committed or entrusted to a person (OED)</note> reaches no farther.</p>
+                  <p>Sir, my Commission reaches no farther.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
@@ -3347,11 +3348,11 @@ sweet Mistress.</p>
                <sp>
                   <pb n="39" facs="tcp:98343:22"/>
                   <speaker>Luc.</speaker>
-                  <p>You see, I still outdo you in kindness.</p>
+                  <p>You see, I still out-do you in kindness.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>And thou shalt see what haste I'll make to quit scores
+                  <p>And thou shalt see what haste I'l make to quit scores
 —oh the luckiest Rogue!</p>
                </sp>
                <stage>[He undresses himself.</stage>
@@ -3362,7 +3363,7 @@ sweet Mistress.</p>
                <sp>
                   <speaker>Blunt.</speaker>
                   <p>False! 'Sheartlikins, what dost thou take me for? A
-<hi>Jew?</hi> an insensible heathen—a Pox of thy Old Jealous Hus<g ref="char:EOLhyphen"/>band,
+<hi>Iew?</hi> an insensible heathen—a Pox of thy Old Jealous Hus<g ref="char:EOLhyphen"/>band,
 an he were dead, Egad, sweet Soul, it shou'd be none of
 my fault, if I did not Marry thee.</p>
                </sp>
@@ -3372,11 +3373,11 @@ my fault, if I did not Marry thee.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
-                  <p>Good Soul! I'm the fortunatest Dog!<note>luckiest rogue,</note></p>
+                  <p>Good Soul! I'm the fortunatest Dog!</p>
                </sp>
                <sp>
                   <speaker>Luc.</speaker>
-                  <p>Are you not undrest yet?</p>
+                  <p>Are you not undest yet?</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
@@ -3385,7 +3386,7 @@ my fault, if I did not Marry thee.</p>
                <stage>[Goes towards the Bed in his shirt, Drawers.</stage>
                <sp>
                   <speaker>Luc.</speaker>
-                  <p>Hold, Sir, put out the Light, it may betray us else.<note>darkness necessary to setup the robbery of Blunt</note></p>
+                  <p>Hold, Sir, put out the Light, it may betray us else.</p>
                </sp>
                <sp>
                   <speaker>Blunt.</speaker>
@@ -3393,14 +3394,14 @@ my fault, if I did not Marry thee.</p>
 Eyes!—'Sheartlikins, there I think I had it.
 <stage>[Puts out the Candle, the Bed descends, he groaps about to find it.</stage>
 —Whe—whe—where am I got? what not yet?—where are
-you sweetest?—ah, the Rogue's silent now—a pretty Love 
-trick this—how she'l laugh at me anon!<note>in a short time; soon(CollinsDictionary)</note>—you need not, my
+you sweetest?—ah, the Rogue's silent now—a pretty Love<g ref="char:EOLhyphen"/>trick
+this—how she'l laugh at me anon!—you need not, my
 dear Rogue! you need not!—I'm all on fire already—come,
 come, now call me in pity.—Sure I'm Enchanted! I have
 been round the Chamber, and can find neither Woman, nor
 Bed—I lockt the Door, I'm sure she cannot go that way—
 or if she cou'd, the Bed cou'd not—Enough, enough, my
-pretty wanton, do not carry the jest<note>trick; an exploit(OED)</note> too far—ha, Betrayed! Dogs!
+pretty wanton, do not carry the jest too far—ha, Betraid! Dogs!
 Rogues! Pimps!—help! help!</p>
                </sp>
                <stage>[Lights on a Trap, and is let down.</stage>
@@ -3411,13 +3412,13 @@ Rogues! Pimps!—help! help!</p>
                </sp>
                <sp>
                   <speaker>Luc.</speaker>
-                  <p>Now, Sir, had I been Coy<note>animal trap(OED),if she had been trapped by blunt's love</note> we had mist of this Booty.</p>
+                  <p>Now, Sir, had I been Coy, we had mist of this Booty.</p>
                </sp>
                <sp>
                   <speaker>Phill.</speaker>
-                  <p>Nay, when I saw  'twas a substantial Fool, I was molli<g ref="char:EOLhyphen"/>fied;<note>That has been mollified; appeased, conciliated; †softened, rendered soft or supple; †made less severe; mitigated (OED)</note>.
-but when you dote upon a Serenading Coxcomb, upon a
-Face, fine Cloaths, and a Lute<note> A stringed musical instrument, much in vogue from the 14th to the 17th centuries.(OED)</note>, it makes me rage.</p>
+                  <p>Nay, when I saw 't was a substantial Fool, I was molli<g ref="char:EOLhyphen"/>fied;
+but when you doat upon a Serenading Coxcomb, upon a
+Face, fine Cloaths, and a Lute, it makes me rage.</p>
                </sp>
                <sp>
                   <speaker>Luc.</speaker>
@@ -3427,21 +3428,21 @@ by this.</p>
                </sp>
                <sp>
                   <speaker>Phill.</speaker>
-                  <p>A rich Coat!—Sword and Hat—these Breeches<note. short pants / Breeches are distinguished from trousers by coming only just below the knee,(OED)</note>
-too—are well lin'd—see here, a Gold Watch!—<note>The first actual pocket watch was "said to have occurred in 1675 when Charles II of England introduced waistcoats(Wikipedia).This would have been an incredibly exepensive item.</note>
+                  <p>A rich Coat!—Sword and Hat—these Breeches
+too—are well lin'd—see here, a Gold Watch!—
 <pb n="40" facs="tcp:98343:23"/>
 a Purse—ha!—Gold!—at least Two Hundred Pistols!
 —a bunch of Diamond Rings! and one with the Family
 Arms!—a Gold Box!—with a Medal of his King! and
-his Lady Mother's Picture!—these were Sacred Relics,
+his Lady Mother's Picture!—these were Sacred Reliques,
 believe me!—see, the Wasteband of his Breeches have a
-Mine of Gold!—Old Queen <hi>Besse</hi>'s,<note>refers to Queen Elizabeth I, reigned from 1558-1603.The quarrel from "Eighty Eight" seems to refer to the Spanish Armada, which was destroyed in 1588</note> we have a quarrel to
-her ever since <hi>Eighty Eight,</hi> and may therefore justify the Theft,
+Mine of Gold!—Old Queen <hi>Besse</hi>'s, we have a quarrel to
+her ever since <hi>Eighty Eight,</hi> and may therefore justifie the Theft,
 the Inquisition might have committed it.</p>
                </sp>
                <sp>
                   <speaker>Luc.</speaker>
-                  <p>—See, a Bracelet of bowd Gold! these his Sisters tied
+                  <p>—See, a Bracelet of bowd Gold! these his Sisters ty'd
 about his Arm at parting—but well—for all this, I fear his be<g ref="char:EOLhyphen"/>ing
 a Stranger, may make a noise and hinder our Trade with them
 hereafter.</p>
@@ -3449,7 +3450,7 @@ hereafter.</p>
                <sp>
                   <speaker>Phill.</speaker>
                   <p>That's our security; he is not only a Stranger to us, but
-to the Country too—the Common Shoar<note>Seems to refer to a sewer into which he entered</note> into which he is
+to the Countrey too—the Common Shoar into which he is
 descended, thou knowst conducts him into another Street, which
 this Light will hinder him from ever finding again—he knows
 neither your Name, nor that of the Street where you House is,
@@ -3459,7 +3460,7 @@ nay nor the way to his own Lodgings.</p>
                   <speaker>Luc.</speaker>
                   <p>And art not thou an unmerciful Rogue! not to afford
 him one Night for all this?—I shou'd not have been such a
-<hi>Jew.</hi>
+<hi>Iew.</hi>
                   </p>
                </sp>
                <sp>
@@ -3469,7 +3470,7 @@ to my self—come, that thought makes me wanton!—let's
 to Bed!—<hi>Sancho,</hi> lock up these.</p>
                   <lg>
                      <l>This is the Fleece which Fools do bear,</l>
-                     <l>Design'd for witty Men to sheer.</l>
+                     <l>Design'd for witty Men to sheere.</l>
                   </lg>
                </sp>
                <stage>[Exeunt.</stage>
@@ -3481,10 +3482,10 @@ his Face, <hi>&amp;c.</hi> all dirty.</stage>
 <stage>[Climbing up.</stage>
 I am got out at last, and (which is a Miracle) without a Clue—
 and now to Damning and Cursing!—but if that wou'd ease me,
-where shall I begin? with my Fortune, my self, or the Queen
+where shall I begin? with my Fortune, my self, or the Quean
 that couzen'd me—what a Dog was I to believe in Woman?
 oh Coxcomb!—Ignorant conceited Coxcomb! to fancy she
-could be enamoured with my Person! at first sight enamoured!
+cou'd be enamour'd with my Person! at first sight enamour'd!
 —oh, I'm a cursed Puppy! 'tis plain, Fool was writ upon my
 Forehead! she perceiv'd it!—saw the <hi>Essex</hi>-Calf there—
 <pb n="41" facs="tcp:98343:23"/>
@@ -3499,7 +3500,7 @@ to Morrow on the <hi>Prado,</hi> to a Lousie Tune of the Enchanted
 'Squire, and the Annihilated Damsel—but <hi>Fred.</hi> that Rogue!
 and the Colonel, will abuse me beyond all Christian patience—
 had she left me my Clothes, I have a Bill of Exchange at home,
-would have saved my Credit—but now all hope is taken from
+wou'd have sav'd my Credit—but now all hope is taken from
 me—well, I'l home (if I can find the way) with this Consola<g ref="char:EOLhyphen"/>tion,
 that I am not the first kind believing Coxcomb; but there
 are Gallants many such good Natures amongst ye.</p>
@@ -3515,20 +3516,20 @@ are Gallants many such good Natures amongst ye.</p>
                   <p>Well, thus far I'm in my way to happiness; I have got
 my self free from <hi>Callis;</hi> my Brother too I find by yonder light is
 got into his Cabinet, and thinks not of me; I have by good For<g ref="char:EOLhyphen"/>tune,
-got the Key of the Garden back-door.—I'll open it to
-prevent <hi>Belvile</hi>'s knocking—a little noise will now Alarm my
+got the Key of the Garden back-door.—I'l open it to
+prevent <hi>Belvile</hi>'s knocking—a little noise will now Allarm my
 Brother. Now am I as fearful as a young Thief. <stage>[Unlocks the door.</stage>
 —heark—what noise is that—oh, 'twas the Wind
-that played amongst the Boughs—<hi>Belvile</hi> stays long, methinks
-—it's time—stay—for fear of a surprise—I'll hide
+that plaid amongst the Boughs—<hi>Belvile</hi> stays long, methinks
+—it's time—stay—for fear of a surprise—I'l hide
 these Jewels in yonder Jessamin.</p>
                </sp>
                <stage>[She goes to lay down the Box.</stage>
-               <stage>Enter <hi>Willmore</hi>, drunk.</stage>
+               <stage>Enter <hi>Willmore</hi> drunk.</stage>
                <sp>
                   <speaker>Will</speaker>
                   <p>What the Devil is become of these fellows, <hi>Belvile</hi> and
-<hi>Frederick,</hi> they promised to stay at the next Corner for me, but
+<hi>Frederick,</hi> they promiss'd to stay at the next Corner for me, but
 who the Devil knows the Corner of a Full Moon—now—where-abouts
 am I!—hah—what have we here a Garden!—
 a very convenient place to sleep in—hah—what has God
@@ -3561,13 +3562,12 @@ let it suffice I am here Child—come, come kiss me.</p>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Only good luck Child, parlous good luck—come hither,
-—'tis a delicate shining Wench—by this hand she's perfumed,
-and smells like any Nosegay<note>A bunch of flowers or herbs, especially those having a sweet smell-OED</note>—prithee dear Soul, let's not play
-the Fool, and lose time—precious time—for as God shall save
-me I'm as honest a Fellow as breathes, tho' I'm a little disguised at
+—'tis a delicate shining Wench—by this hand she's perfum'd,
+and smells like any Nosegay—prithee dear Soul, let's not play
+the Fool, and lose time—precious time—for as Gad shall save
+me I'm as honest a Fellow as breathes, tho' I'm a little disguis'd at
 present—come I say—whe thou may'st be free with me, I'll
-be very secret. I'll not boast who 'twas obliged me, not I—for
-
+be very secret. I'll not boast who 'twas oblig'd me, not I—for
 hang me if I know thy name.</p>
                </sp>
                <sp>
@@ -3576,24 +3576,24 @@ hang me if I know thy name.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I am so, and thou ought'st the sooner to lie with me for
+                  <p>I am so, and thou ought'st the sooner to lye with me for
 that reason—for look you Child, there will be no sin in't, because
-'twas neither designed nor premeditated. 'Tis pure Accident on
-both sides—that's a certain thing now—indeed should I
-make Love to you, and you vow fidelity—and swear and lie
-till you believed and yielded—that were to make it wilful Forni<g ref="char:EOLhyphen"/>cation
+'twas neither design'd nor premeditated. 'Tis pure Accident on
+both sides—that's a certain thing now—indeed shou'd I
+make Love to you, and you vow fidelity—and swear and lye
+till you believ'd and yielded—that were to make it wilful Forni<g ref="char:EOLhyphen"/>cation
 —the crying Sin of the Nation—thou art therefore (as thou
-art a good Christian) obliged in Conscience to deny me nothing.
+art a good Christian) oblig'd in Conscience to deny me nothing.
 Now—come be kind without any more idle prating.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Oh I am ruined—Wicked Man unhand me.</p>
+                  <p>Oh I am ruin'd—Wicked Man unhand me.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Wicked!—Egad Child a Judge were he young and vi<g ref="char:EOLhyphen"/>gorous,
-and saw those Eyes of thine, would know 'twas they gave
+and saw those Eyes of thine, wou'd know 'twas they gave
 the first blow—the first provocation—come prithee let's lose
 no time, I say—this is a fine convenient place.</p>
                </sp>
@@ -3608,18 +3608,18 @@ you treat me—do—</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>I'll cry Murder! Rape! or anything! if you do not in<g ref="char:EOLhyphen"/>stantly
+                  <p>I'll cry Murder! Rape! or any thing! if you do not in<g ref="char:EOLhyphen"/>stantly
 let me go.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>A Rape! Come, come, you lie you Baggage, you lie,
-what, I'll warrant you would fain have the World believe now
+                  <p>A Rape! Come, come, you lye you Baggage, you lye,
+what, I'll warrant you wou'd fain have the World believe now
 that you are not so forward as I. No, not you—why at this time
 <pb n="43" facs="tcp:98343:24"/>
 of Night was your Cobweb Door set open dear Spider—but to
-catch Flies?—Hah—come—or I shall be damnably angry.
-—Whe what a Coyl<note>A noise or disturbance, a 'row', a tumult</note> is here—</p>
+catch Flyes?—Hah—come—or I shall be damnably angry.
+—Whe what a Coyl is here—</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
@@ -3627,20 +3627,20 @@ catch Flies?—Hah—come—or I shall be damnably angry.
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>That you would do't for nothing—oh, oh I find what
-you would be at—look here, here's a Pistol for you—here's a
+                  <p>That you wou'd do't for nothing—oh, oh I find what
+you wou'd be at—look here, here's a Pistol for you—here's a
 work indeed—here—take it I say—</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>For Heavens sake Sir, as you're a Gentleman—</p>
+                  <p>For Heav'ns sake Sir, as you're a Gentleman—</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>So—now—now—she would be wheadling me for more
-—what, you will not take it then—you are resolved you will
+                  <p>So—now—now—she wou'd be wheadling me for more
+—what, you will not take it then—you are resolv'd you will
 not—come—come take it, or I'll put if up again—for look ye,
-I never give more—whe how now Mistress, are you so high i'th'
+I never give more—whe how now Mistris, are you so high i'th'
 Mouth a <hi>Pistol</hi> won't down with you—hah—whe what a works'
 here—in good time—come, no struggling to be gone—but an
 y'are good at a dumb Wrestle I'm for ye—look ye—I'm for
@@ -3652,7 +3652,7 @@ yee—</p>
                <sp>
                   <speaker>Belv.</speaker>
                   <p>The Door is open, a pox of this mad Fellow, I'm angry
-that we've lost him, I durst have sworn he had followed us.</p>
+that wee've lost him, I durst have sworn he had followed us.</p>
                </sp>
                <sp>
                   <speaker>Fred.</speaker>
@@ -3660,7 +3660,7 @@ that we've lost him, I durst have sworn he had followed us.</p>
                </sp>
                <sp>
                   <speaker>Flor.</speaker>
-                  <p>Help! help!—Murder!—help—oh I am ruined.</p>
+                  <p>Help! help!—Murder!—help—oh I am ruin'd.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3673,12 +3673,12 @@ that we've lost him, I durst have sworn he had followed us.</p>
                <sp>
                   <speaker>Flor.</speaker>
                   <p>
-                     <hi>Belvile!</hi> Heavens! my Brother too is coming, and 'twill
+                     <hi>Belvile!</hi> Heavens! my Brother too is coming, and twill
 be impossible to escape—<hi>Belvile</hi> I conjure you to walk under
 my Chamber Window, from whence I'll give you some Instructi<g ref="char:EOLhyphen"/>ons
 what to do—this rude Man has undone us.</p>
                   <stage>[Exit.</stage>
-t               </sp>
+               </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Belvile!</p>
@@ -3686,8 +3686,9 @@ t               </sp>
                <stage>Enter <hi>Pedro, Stephano,</hi> and other Servants with Lights.</stage>
                <sp>
                   <speaker>Ped.</speaker>
-                  <p>I'm betrayed! run <hi>Stephano</hi> and see if <hi>Florinda</hi> be safe?
-<stage>[<hi>Ex.</hi> Steph.</stage>oSo, who e're they be, all is not
+                  <p>I'm betray'd! run <hi>Stephano</hi> and see if <hi>Florinda</hi> be safe?
+<stage>[<hi>Ex.</hi> Steph.</stage>
+So, who e're they be, all is not
 well, I'll to <hi>Florindas</hi> Cham<g ref="char:EOLhyphen"/>ber.</p>
                </sp>
                <stage>They Fight, and <hi>Ped.</hi>
@@ -3697,7 +3698,8 @@ Party beats 'em out.</stage>
                <sp>
                   <speaker>Steph.</speaker>
                   <p>You need not Sir, the poor Lady's fast asleep and thinks
-no harm. I would not awake her Sir, for fear of frighting her with your danger.</p>
+no harm. I wou'd not awake her Sir, for fear of frighting her with
+your danger.</p>
                </sp>
                <sp>
                   <pb n="44" facs="tcp:98343:25"/>
@@ -3708,11 +3710,11 @@ Door open?</p>
                <sp>
                   <speaker>Steph.</speaker>
                   <p>That Question comes too late Sir, some of my Fellow
-<Servants Masquerading I'le warrant.</p>
+Servants Masquerading I'le warrant.</p>
                </sp>
                <sp>
                   <speaker>Ped.</speaker>
-<                  <p>Masquerading! a lewd Custome to debauch our youth,
+                  <p>Masquerading! a lewd Custome to debauch our youth,
 —there's something more in this then I imagine.</p>
                </sp>
                <stage>[Exeunt.</stage>
@@ -3731,7 +3733,7 @@ must you be a Beast?—a Brute? a Senseless Swine.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Well Sir, you see I am endu'd<note>imbued or transfused</note> with patience—I can bear
+                  <p>Well Sir, you see I am endu'd witn patience—I can bear
 —tho Egad y'are very free with me, methinks.—I was in good
 hopes the Quarrel wou'd have been on my side, for so uncivilly
 interrupting me.</p>
@@ -3745,8 +3747,8 @@ interrupting me.</p>
                   <p>Nay, nay, I'm an unlucky Dogg, that's certain.</p>
                </sp>
                <sp>
-                  <speaker>Belv.</speaker
-                  <p>Ah Curse upon the Star that Rul'd my Birth! or whatsoever
+                  <speaker>Belv.</speaker>
+                  <p>Ah Curse upon the Star that Rul'd my Birth! or what<g ref="char:EOLhyphen"/>soever
 other Influence that makes me still so wretched.</p>
                </sp>
                <sp>
@@ -3765,7 +3767,7 @@ drunk.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>A Curse upon his thin Skull<note>reference to the common law of taking your victim as you find them http://definitions.uslegal.com/t/thin-skull-rule/</note>, he was always before hand
+                  <p>A Curse upon his thin Skull, he was always before hand
 that way.</p>
                </sp>
                <sp>
@@ -3801,7 +3803,7 @@ wish.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Let that alone till to Morrow, and if I set not all right again,
+                  <p>Let that alone till to Morrow, and if I set not all right a<g ref="char:EOLhyphen"/>gain,
 use your pleasure.</p>
                </sp>
                <sp>
@@ -3814,7 +3816,7 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-<                  <p>What then?</p>
+                  <p>What then?</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3822,8 +3824,8 @@ use your pleasure.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>I shall be finely inform'd then, no doubt, hear me Colonel
-—hear me—shew me the Man and I'le do his Business.</p>
+                  <p>I shall be finely inform'd then, no doubt, hear me Colo<g ref="char:EOLhyphen"/>nel
+—hear me—shew me the Man and I'le do his Busi<g ref="char:EOLhyphen"/>ness.</p>
                </sp>
                <sp>
                   <speaker>Belv.</speaker>
@@ -3835,12 +3837,12 @@ need thy Aid.</p>
                   <p>This you say is <hi>Angellicas</hi> House, I promis'd the kind
 Baggage to lye with her to Night.</p>
                </sp>
-<<               <stage>[Offers to go in.</stage>
+               <stage>[Offers to go in.</stage>
                <stage>Enter <hi>Antonio</hi> and his Page. <hi>Ant<g ref="char:punc">▪</g>
                   </hi> knock
 on the Hilt of's Sword.</stage>
                <sp>
-.                  <speaker>Ant.</speaker>
+                  <speaker>Ant.</speaker>
                   <p>You paid the Thousand Crowns I directed?</p>
                </sp>
                <sp>
@@ -3862,16 +3864,17 @@ if I find no comfort there, I'll dye.</p>
                <sp>
                   <speaker>Moret.</speaker>
                   <p>Page!</p>
-<               </sp>
+               </sp>
                <sp>
                   <speaker>Page.</speaker>
                   <p>Here's my Lord.</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>How is this! a Pickroone<note>A variant spelling of Picaroon meaning a rogue or a scoundrel</note> going to board my Fregate<note>a warship</note>?
-here's one Chase Gun<note>a canon at the bow or stern of an armed ship used in pursuit (Merriam-Webster)</note> for you.</p>               </sp>
-               <stage>Drawing his Sword, justles<note>jostles (Dictionary.com)</note> <hi>Ant.</hi> who turns and draws.
+                  <p>How is this! a Pickroone going to board my Fregate?
+here's one Chase Gun for you.</p>
+               </sp>
+               <stage>Drawing his Sword, justles <hi>Ant.</hi> who turns and draws.
 They fight, <hi>Ant.</hi> falls.</stage>
                <sp>
                   <speaker>Moret.</speaker>
@@ -3885,7 +3888,7 @@ They fight, <hi>Ant.</hi> falls.</stage>
                <stage>[<hi>Belvile</hi> returns at the noise of fighting.</stage>
                <sp>
                   <speaker>Belv.</speaker>
-                  <p>Ha! the mad Rogue's engag'd in some unlucky Adventure
+                  <p>Ha! the mad Rogue's engag'd in some unlucky Adven<g ref="char:EOLhyphen"/>ture
 again.</p>
                </sp>
                <stage>
@@ -3901,7 +3904,7 @@ Enter two or three Masqueraders.</stage>
                </sp>
                <stage>[Puts up and reels out<g ref="char:punc">▪</g>
                </stage>
-               <stage>Ex. Masq.<expan>
+               <stage>Ex. Mas<expan>
                      <am>
                         <g ref="char:abque"/>
                      </am>
@@ -4547,7 +4550,7 @@ will not draw on him.</p>
                   <l>—Her being <hi>Don Pedro's</hi> Sister—he loves her!</l>
                   <l>I know 'tis so—dull, dull, Insensible—</l>
                   <l>He will not see me now tho oft invited;</l>
-                  <l>And broke his word last Night—false perjur'd<note> Of a person: that has committed or is guilty of perjury; that has deliberately broken an oath, promise, etc. (OED) </note> Man!</l>
+                  <l>And broke his word last Night—false perjur'd Man!</l>
                   <l>—He that but Yesterday fought for my Favours,</l>
                   <l>And wou'd have made his Life a Sacrifice</l>
                   <l>To've gain'd one Night with me,</l>
@@ -4593,7 +4596,7 @@ Poor, if you had meant to have had any good from him.</p>
                   <speaker>Ang.</speaker>
                   <p>Well Sir, you may be gay, all happiness, all joyes pursue
 you still, Fortune's your Slave, and gives you every hour choyce
-of new hearts and Beauties, till you are cloy'd <note> Clogged, cumbered, burdened (OED)</note> with the repeated
+of new hearts and Beauties, till you are cloy'd with the repeated
 Bliss, which others vainly languish for.—</p>
                   <p>—But know false Man that I shall be reveng'd.</p>
                </sp>
@@ -4665,7 +4668,7 @@ her.</p>
                <stage>Enter <hi>Hellena</hi> drest in Man's Cloths.</stage>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>This must be <hi>Angellica!</hi> I know it by her mumping <note> To utter indistinctly or inarticulately, as if with toothless gums; to mumble, mutter (OED)</note> Ma<g ref="char:EOLhyphen"/>tron
+                  <p>This must be <hi>Angellica!</hi> I know it by her mumping Ma<g ref="char:EOLhyphen"/>tron
 here—Ay, ay, 'tis she! my Mad Captain's with her too,
 for all his swearing—how this unconstant humour makes me
 love him!—Pray good grave Gentle woman is not this <hi>Angel<g ref="char:EOLhyphen"/>lica?</hi>
@@ -6609,7 +6612,7 @@ the favour he has done your Sister, so, if not, Sir, my Pow'rs
 greater in this house than yours, I have a damn'd surly Crew here,
 that will keep you till the next Tide, and then clap you on bord
 for Prise; my Ship lies but a League off the <hi>Molo,</hi> and we shall
-show your Donship a damn'd <hi>Tramontana</hi><note>"Dwelling or situated beyond, or pertaining to the far side of, the mountains (orig. and in reference to Italy, the Alps...hence, foreign...occupied by a non-Italian." This word could also have, "the connotation [of] 'uncouth, unpolished, barbarous'." ("tramontane, adj. and n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.<note/> Rovers Trick.</p>
+show your Donship a damn'd <hi>Tramontana</hi><note>Refers to a northern wind, but more generally anything which is foreign(Wikipedia)<note/> Rovers Trick.</p>
                </sp>
                <stage>
                   <hi>Enter</hi> Belvile.</stage>
@@ -6683,13 +6686,14 @@ since we are met again, I defie foul weather to part us.</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>And wou'd you be a Faithful Friend, now if a Maid shou'd
-trust you?</p>
+trust you<g ref="char:punc">▪</g>
+                  </p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>For a Friend I cannot promise, thou art of a form so Excellent
+                  <p>For a Friend I cannot promise, thou art of a form so Ex<g ref="char:EOLhyphen"/>cellent
 a Face and Humour, too good for cold dull Friendship; I
-am parlously<note>"In a parlous manner; esp. perilously, dangerously; precariously; desperately," ("parlously, adv." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.)</note> afraid of being in Love Child, and you have not forgot
+am parlously afraid of being in Love Child, and you have not for<g ref="char:EOLhyphen"/>got
 how severely you have us'd me?</p>
                </sp>
                <sp>
@@ -6706,8 +6710,8 @@ by.</p>
                </sp>
                <sp>
                   <speaker>Hell.</speaker>
-                  <p>Faith none Captain:—whe 'twill be the greater Charity
-to take me for thy Mistress. I am alone Child, a kind of Orphan
+                  <p>Faith none Captain:—whe 'twill be the greater Cha<g ref="char:EOLhyphen"/>rity
+to take me for thy Mistress. I am alone Child, a kind of Or<g ref="char:EOLhyphen"/>phan
 Lover, and why I shou'd dye a Maid, and in a Captains hands
 too, I do not understand,</p>
                </sp>
@@ -6729,7 +6733,7 @@ let's lose no time,</p>
                <sp>
                   <speaker>Will.</speaker>
                   <p>My time's as precious to me, as thine can be, therefore
-dear creature, since we are so well agreed, let's retire to my Chamber,
+dear creature, since we are so well agreed, let's retire to my Cham<g ref="char:EOLhyphen"/>ber,
 and if ever thou wert treated with such Savory Love!—
 come—my beds prepar'd for such a guest all clean and Sweet
 as thy fair self, I love to steal a Dish and a Bottle with a Friend, and
@@ -6738,13 +6742,13 @@ hate long Graces—come let's retire and fall too.</p>
                <sp>
                   <speaker>Hell.</speaker>
                   <p>'Tis but getting my consent, and the bus'ness is soon
-done, let but old Gaffer<note>"A term applied originally by country people to an elderly man or one whose position entitled him to respect." Or, "Used simply as a title of address, often with not intimation of respect," ("gaffer, n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.) <hi>Himen</hi> and his Priest, say amen to't, and I
-dare lay my Mothers daughter by as proper a Fellow as your Father's
+done, let but old Gaffer <hi>Himen</hi> and his Priest, say amen to't, and I
+dare lay my Mothers daughter by as proper a Fellow as your Fa<g ref="char:EOLhyphen"/>ther's
 Son, without fear or blushing,</p>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
-                  <p>Hold, hold, no Bugg<note>"A word meant to frighten or terrify; a word that causes dread," († bug-word | bug's-word, n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.)</note> words Child, Priest and <hi>Hymen,</hi>
+                  <p>Hold, hold, no Bugg words Child, Priest and <hi>Hymen,</hi>
 prithee add a Hang-man to 'em to make up the consort,—no, no,
 we'l have no Vows but Love, Child, nor witness but the Lover,
 the kind Deity injoyn naught but Love! and injoy! <hi>Himen</hi> and
@@ -6760,7 +6764,7 @@ great Miracle of making a Maid a Mother, if you durst venture;
                   <speaker>Hell.</speaker>
                   <p>And if you do not lose, what shall I get? a cradle full of
 noise and mischief, with a pack of repentance at my back? can
-you teach me to weave Incle<note>"A kind of linen tape, formerly much used for various purposes," ("inkle, n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.)</note> to pass my time with? 'tis upse Gipsie
+you teach me to weave Incle to pass my time with? 'tis upse Gip<g ref="char:EOLhyphen"/>sie
 that too.</p>
                </sp>
                <sp>
@@ -6993,8 +6997,8 @@ I abominate?</p>
 the Inquisition for Judaisme, than in this Doublet and Breeches,
 a Pillory were an easie Coller, to this three handfuls high; and
 these Shoes too, are worse, then the stocks with the sole an Inch
-shorter than my Foot: In fine, Gentlemen, methinks I look altogether
-like a Bag of Bayes<note>"A bag of bay leaves used in cooking." (Canfield, J D, and Sneidern M.-L. Von. The Broadview Anthology of Restoration & Early Eighteenth-Century Drama. Peterborough, Ont: Broadview Press, 2004. Print)</note> stufft full of Fooles flesh.</p>
+shorter than my Foot: In fine, Gentlemen, methinks I look al<g ref="char:EOLhyphen"/>together
+like a Bag of Bayes stufft full of Fooles flesh.</p>
                </sp>
                <sp>
                   <speaker>Bell.</speaker>
@@ -7017,9 +7021,9 @@ a Pox of my <hi>Spanish</hi> habit.</p>
                <stage>
                   <hi>Enter</hi> Boy.</stage>
                <sp>
-                  <speaker>Boy.</speaker>
+                  <speaker>Ioy.</speaker>
                   <p>Sir, as the Custome is, the gay people in Masquerade who
-make every mans House their own, are coming up:</p>
+male every mans House their own, are coming up:</p>
                </sp>
                <stage>Enter several Men and Women in Masquing Habits with
 Musick, they put themselves in order and Dance.</stage>
@@ -7030,14 +7034,15 @@ false faces, That I might see if my Doxie were not amongst e'm.</p>
                </sp>
                <sp>
                   <speaker>Bell.</speaker>
-                  <p>Ladies and Gentlemen, since you are come so <hi>apropo,</hi> you
+                  <p>Ladies and Gentlemen, since you are come so <hi>ap ropo,</hi> you
 must take a small Collation with us.</p>
-                  <stage>[To the Masquero's.</stage>
+                  <stage>[To the Masquero's<g ref="char:punc">▪</g>
+                  </stage>
                </sp>
                <sp>
                   <speaker>Will.</speaker>
                   <p>Whilst we'le to the Good Man within, who stayes to
-give us a Cast<note>A look or view ("cast, n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.).</note> of his Office. <stage>
+give us a Cast of his Office. <stage>
                         <hi>[To</hi> Hell.</stage>
 —Have you no trembling at the near approach?</p>
                </sp>
@@ -7065,23 +7070,23 @@ Courage.</p>
             <l>A Popish Carnival! a Masquerade!</l>
             <l>The Devel's in't if this will please the Nation,</l>
             <l>In these our blessed times of Reformation,</l>
-            <l>When Conventickling<note>A religious meeting of an unsanctioned or clandestine nature ("conventicle, n." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.).</note> is so much in fashon.</l>
+            <l>When Conventickling is so much in fashon.</l>
             <l>And yet—</l>
             <l>That Mutinous Tribe less Factions do beget,</l>
             <l>Than your continual differing in Wit;</l>
-            <l>Your Judgment's (as your Passion's) a disease:</l>
+            <l>Your Iudgment's (as your Passion's) a disease:</l>
             <l>Nor Muse nor Miss your Appetite can please;</l>
             <l>Your grown as Nice as queasie Consciences,</l>
             <l>Who's each Convulsion, when the Spirit moves,</l>
             <l>Damns every thing, that Maggot disapproves.</l>
-            <l>With Canting<note>Hypocritical ("ˈcanting, adj.2." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.).</note> Rule you wou'd the Stage refine,</l>
+            <l>With Canting Rule you wou'd the Stage refine,</l>
             <l>And to Dull Method all our Sense confine.</l>
             <l>With th' Insolence of Common Wealths you rule,</l>
             <l>Where each gay Fop, and Politick grave Fool</l>
             <l>On Monarch Wit impose, without controul.</l>
             <l>As for the last, who seldom sees a Play,</l>
-            <l>Unless it be the old Black Fryers<note>A major London theater in which the Shakespeare company performed during the winter until 1642, when all the playhouses were closed (Gurr, Andrew. "London’s Blackfriars Playhouse and the Chamberlains Men’." Inside Shakespeare: Essays on the Blackfriars Stage (2006): 17-33.).</note> way,</l>
-            <l>Shaking his empty Noddle<note>Head ("noddle, n.1." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.).</note> o're <hi>Bamboo,</hi>
+            <l>Unless it be the old Black Fryers way,</l>
+            <l>Shaking his empty Noddle o're <hi>Bamboo,</hi>
             </l>
             <l>He Crys,—Good Faith, these Playes will never do.</l>
             <l>—Ah, Sir, in my young days, what lofty Wit,</l>
@@ -7091,7 +7096,7 @@ Courage.</p>
             <l>Then shews his Politicks, to let you see,</l>
             <l>Of State Affairs he'l judge as notably,</l>
             <l>As he can do of Wit and Poetry.</l>
-            <l>The younger Sparks,<note>A foppish, affected type of man ("spark, n.2." OED Online. Oxford University Press, September 2016. Web. 5 December 2016.).</note> who hither do resort,</l>
+            <l>The younger Sparks, who hither do resort,</l>
             <l>Cry,—</l>
             <l>Pox o' your gentile things, give us more Sport;</l>
             <l>—Damn me, I'm sure 'twill never please the Court.</l>
@@ -7106,19 +7111,19 @@ Such might the Half-Crown spare, and in a Glass</l>
             <l>See how this—Huff becomes,—this Damny,—stare,—</l>
             <l>Which they at home may act, because they dare,</l>
             <l>But—must with prudent caution do elsewhere.</l>
-            <l>Oh that our <hi>Nokes,</hi> or <hi>Tony Lee</hi><note>James Stokes and Anthony Leigh were celebrated comic actors of the period, often appearing alongside one another (Chernaik, Warren. “Nokes , James (c.1642–1696).” Warren Chernaik Oxford Dictionary of National Biography. Ed. H. C. G. Matthew and Brian Harrison. Oxford: OUP, 2004. Online ed. Ed. David Cannadine. Jan. 2008. 5 Dec. 2016).</note> cou'd show</l>
+            <l>Oh that our <hi>Nokes,</hi> or <hi>Tony Lee</hi> cou'd show</l>
             <l>A Fop but half so much to th' life as you.</l>
          </div>
          <div type="postscript">
             <head>Post-script.</head>
             <p>This Play had been sooner in Print, but for a Report about the Town (made by
-some either very Malitious or very Ignorant) that 'twas <hi>Thomaso</hi><note>The Rover borrows heavily from Thomas Killigrew's Thomaso, or, The Wanderer, though Behn seems to minimize the extent to which she borrowed from it here (DeRitter, Jones. "The Gypsy," The Rover", and the Wanderer: Aphra Behn's Revision of Thomas Killigrew." Restoration: Studies in English Literary Culture, 1660-1700 10.2 (1986): 82-92.).</note> alter'd;
+some either very Malitious or very Ignorant) that 'twas <hi>Thomaso</hi> alter'd;
 which made the Book-sellers fear some trouble from the Proprietor of that Admirable
-Play, which indeed has Wit enough to stock a Poet, and is not to be peec't or mended
+Play, which indeed has Wit enough to stock a Poet, and is not to be peec't or mend<g ref="char:EOLhyphen"/>ed
 by any but the Excellent Author himself; That I have stoln some hints from it,
-may be a proof, that I valu'd it more than to pretend to alter it; had I had the
+may be a proof, that I valu'd it more than to pretend to alter it<g ref="char:punc">▪</g> had I had the
 Dexterity of some Poets, who are not more Expert in stealing than in the Art of
-Concealing, and who even that way out-do the <hi>Spartan</hi>-Boyes. I might have appropriated
+Concealing, and who even that way out-do the <hi>Spartan</hi>-Boyes. I might have ap<g ref="char:EOLhyphen"/>propriated
 all to my self, but I, vainly proud of my Iudgment, hang out the Sign
 of <hi>Angellica,</hi> (the only stoln Object) to give Notice where a great part of the Wit
 dwelt; tho if the Play of the <hi>Novella</hi> were as well worth remembring as <hi>Thomaso,</hi>
@@ -7126,7 +7131,7 @@ they might (bating the Name) have as well said, I took it from thence: I will
 only say the Plot and Bus'ness (not to boast on't) is my own: as for the Words
 and Characters, I leave the Reader to judge and compare 'em with <hi>Thomaso,</hi> to
 whom I recommend the great Entertainment of reading it, tho had this succeeded ill,
-I shou'd have had no need of imploring that Justice from the Criticks, who are naturally
+I shou'd have had no need of imploring that Iustice from the Criticks, who are na<g ref="char:EOLhyphen"/>turally
 so kind to any that pretend to usurp their Dominion, they wou'd doubtless
 have given me the whole Honour on't. Therefore I will only say in <hi>English</hi> what
 the famous <hi>Virgil</hi> does in <hi>Latin; I make Verses, and others have the Fame.</hi>
